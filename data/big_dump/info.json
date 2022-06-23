@@ -1,0 +1,210 @@
+{
+    "11441": {
+        "info": {
+            "P1": "0.80",
+            "P2": "0.80",
+            "humidity": "100.00",
+            "latitude": "57.164",
+            "location_id": "11441",
+            "longitude": "-2.120",
+            "pressure": "100927.81",
+            "sensor_id": "22550",
+            "sensor_type": "BME280",
+            "temperature": "14.85",
+            "timestamp": "2022-06-21T23:58:26"
+        }
+    },
+    "11513": {
+        "info": {
+            "P1": "2.08",
+            "P2": "1.30",
+            "humidity": "99.90",
+            "latitude": "57.172",
+            "location_id": "11513",
+            "longitude": "-2.134",
+            "sensor_id": "22691",
+            "sensor_type": "SDS011",
+            "temperature": "13.70",
+            "timestamp": "2022-06-21T23:59:52"
+        }
+    },
+    "11991": {
+        "info": {
+            "P1": "0.55",
+            "P2": "0.55",
+            "humidity": "99.90",
+            "latitude": "57.150",
+            "location_id": "11991",
+            "longitude": "-2.134",
+            "sensor_id": "23628",
+            "sensor_type": "SDS011",
+            "temperature": "15.50",
+            "timestamp": "2022-06-21T23:57:51"
+        }
+    },
+    "12697": {
+        "info": {
+            "P1": "2.40",
+            "P2": "1.90",
+            "humidity": "99.90",
+            "latitude": "57.20352965",
+            "location_id": "12697",
+            "longitude": "-2.28857231",
+            "sensor_id": "24543",
+            "sensor_type": "SDS011",
+            "temperature": "14.30",
+            "timestamp": "2022-06-21T23:59:06"
+        }
+    },
+    "13447": {
+        "info": {
+            "P1": "1.77",
+            "P2": "1.42",
+            "humidity": "99.90",
+            "latitude": "57.174",
+            "location_id": "13447",
+            "longitude": "-2.112",
+            "sensor_id": "25556",
+            "sensor_type": "DHT22",
+            "temperature": "13.80",
+            "timestamp": "2022-06-21T23:59:29"
+        }
+    },
+    "13887": {
+        "info": {
+            "P1": "12.73",
+            "P2": "12.33",
+            "humidity": "78.29",
+            "latitude": "57.196",
+            "location_id": "13887",
+            "longitude": "-2.100",
+            "sensor_id": "22068",
+            "sensor_type": "SDS011",
+            "temperature": "15.44",
+            "timestamp": "2022-06-21T23:58:45"
+        }
+    },
+    "14810": {
+        "info": {
+            "P1": "1.52",
+            "P2": "1.40",
+            "latitude": "57.15347387",
+            "location_id": "14810",
+            "longitude": "-2.27150810",
+            "sensor_id": "27321",
+            "sensor_type": "SDS011",
+            "timestamp": "2022-06-21T23:59:25"
+        }
+    },
+    "14837": {
+        "info": {
+            "P1": "3.28",
+            "P2": "2.35",
+            "latitude": "57.148",
+            "location_id": "14837",
+            "longitude": "-2.144",
+            "sensor_id": "27365",
+            "sensor_type": "SDS011",
+            "timestamp": "2022-06-21T23:59:30"
+        }
+    },
+    "14971": {
+        "info": {
+            "P1": "1.98",
+            "P2": "1.88",
+            "humidity": "99.90",
+            "latitude": "57.15465533",
+            "location_id": "14971",
+            "longitude": "-2.11653113",
+            "sensor_id": "27530",
+            "sensor_type": "DHT22",
+            "temperature": "13.80",
+            "timestamp": "2022-06-21T23:58:06"
+        }
+    },
+    "15054": {
+        "info": {
+            "P1": "1.92",
+            "P2": "1.80",
+            "humidity": "99.90",
+            "latitude": "57.152",
+            "location_id": "15054",
+            "longitude": "-2.118",
+            "sensor_id": "27645",
+            "sensor_type": "DHT22",
+            "temperature": "13.10",
+            "timestamp": "2022-06-21T23:59:13"
+        }
+    },
+    "18867": {
+        "info": {
+            "P1": "1.10",
+            "P2": "1.00",
+            "humidity": "99.90",
+            "latitude": "57.11736800",
+            "location_id": "18867",
+            "longitude": "-2.19439100",
+            "sensor_id": "32406",
+            "sensor_type": "DHT22",
+            "temperature": "13.80",
+            "timestamp": "2022-06-21T23:58:42"
+        }
+    },
+    "27537": {
+        "info": {
+            "P1": "4.05",
+            "P2": "1.60",
+            "humidity": "100.00",
+            "latitude": "57.134",
+            "location_id": "27537",
+            "longitude": "-2.136",
+            "pressure": "100919.13",
+            "sensor_id": "41861",
+            "sensor_type": "SDS011",
+            "temperature": "17.00",
+            "timestamp": "2022-06-21T23:59:27"
+        }
+    },
+    "31044": {
+        "info": {
+            "humidity": "62.63",
+            "latitude": "57.16387153",
+            "location_id": "31044",
+            "longitude": "-2.27852583",
+            "pressure": "99555.78",
+            "sensor_id": "45303",
+            "sensor_type": "BME280",
+            "temperature": "15.41",
+            "timestamp": "2022-06-21T23:59:32"
+        }
+    },
+    "58535": {
+        "info": {
+            "P1": "8.70",
+            "P2": "3.30",
+            "humidity": "91.37",
+            "latitude": "57.23737987",
+            "location_id": "58535",
+            "longitude": "-2.26681709",
+            "pressure": "100846.75",
+            "sensor_id": "70891",
+            "sensor_type": "SDS011",
+            "temperature": "13.27",
+            "timestamp": "2022-06-21T23:58:18"
+        }
+    },
+    "8655": {
+        "info": {
+            "P1": "0.82",
+            "P2": "0.70",
+            "humidity": "56.30",
+            "latitude": "57.106",
+            "location_id": "8655",
+            "longitude": "-2.088",
+            "sensor_id": "17080",
+            "sensor_type": "DHT22",
+            "temperature": "21.20",
+            "timestamp": "2022-06-21T23:58:24"
+        }
+    }
+}

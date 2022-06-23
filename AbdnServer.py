@@ -1,6 +1,6 @@
 import os, argparse, json, glob
 import flask, json
-from flask import request, jsonify
+from flask import request, jsonify, render_template
 from datetime import datetime, tzinfo, timezone, date, timedelta
 from dateutil import parser
 import math
@@ -9,7 +9,7 @@ from operator import itemgetter
 
 # file from CTC16 Data Gathering repo at https://github.com/AirAberdeen/CTC16-Data-Gathering 
 
-json_file = "./data/big_dump/"
+json_file = "./data/bq_data"
 
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
@@ -73,52 +73,22 @@ def getIdFormLocation (lat, lon):
     
     return (location_id)
 
-@app.route("/")
-def hello():
-        return "Hello!"
 
-@app.route('/api/v1/data', methods=['GET'])
+@app.route("/")
+def index():
+    return render_template("index.html")
+
+
+@app.route('/bq_data', methods=['GET'])
 def api_filter():
     query_parameters = request.args
 
-    location_id = query_parameters.get('id')
-    if not (location_id):
-        lat = query_parameters.get('lat')
-        lon = query_parameters.get('lon')
-        location_id = getIdFormLocation (lat, lon)
-
-    start_date = query_parameters.get('start_date')
-    start_date = parser.parse(start_date)
-    start_date = int((start_date - datetime(1970, 1, 1)).total_seconds())
-    end_date = query_parameters.get('end_date')
-    end_date = parser.parse(end_date)
-    end_date = int((end_date - datetime(1970, 1, 1)).total_seconds())
-    
-    results = {location_id:{'info':{}, 'readings':{}, 'error':{}}}
-    #check if sensor data exists on server
-    if (os.path.isfile(json_file + location_id + '.json')):
+    if (os.path.isfile(json_file + '.json')):
         #open json file
-        with open(json_file + location_id + '.json', "r") as f:
+        with open(json_file + '.json', "r") as f:
             d = json.load(f)
-            #get info
-            results[location_id]['info'].update(
-				d[location_id]['info']
-				)
 
-            #get all timestamps
-            all_time = []
-            for t in d[location_id]["readings"]:
-                all_time.append(int(t))
-            #order timestamps
-            all_time.sort()
-            for t in all_time:
-                if (t > start_date) and (t < end_date):
-                    results[location_id]['readings'][str(t)] = d[location_id]['readings'][str(t)]
-    else:
-        results[location_id]['error'] = {'human':"We don't have a sensor by that name round here"}
-    #results = "blah"
-
-    return jsonify(results)
+    return jsonify(d)
 
 @app.route('/api/v2/data', methods=['GET'])
 def api_filter2():

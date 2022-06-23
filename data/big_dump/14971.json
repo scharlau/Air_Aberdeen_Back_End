@@ -7,10 +7,10 @@
             "latitude": "57.15465533",
             "location_id": "14971",
             "longitude": "-2.11653113",
-            "sensor_id": "27530",
-            "sensor_type": "DHT22",
+            "sensor_id": "27529",
+            "sensor_type": "SDS011",
             "temperature": "13.80",
-            "timestamp": "2022-06-21T23:58:06"
+            "timestamp": "2022-06-21T23:58:05"
         },
         "readings": {
             "1655769600": {

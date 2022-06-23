@@ -1,6 +1,8 @@
 {
     "31044": {
         "info": {
+            "P1": "3.35",
+            "P2": "1.95",
             "humidity": "62.63",
             "latitude": "57.16387153",
             "location_id": "31044",
@@ -13,191 +15,271 @@
         },
         "readings": {
             "1655769600": {
+                "P1": 6.07,
+                "P2": 1.3,
                 "humidity": 47.54,
                 "pressure": 99359.22,
                 "temperature": 17.76
             },
             "1655769960": {
+                "P1": 2.92,
+                "P2": 1.75,
                 "humidity": 47.23,
                 "pressure": 99360.81,
                 "temperature": 17.72
             },
             "1655770320": {
+                "P1": 3.7,
+                "P2": 1.65,
                 "humidity": 48.33,
                 "pressure": 99358.69,
                 "temperature": 17.69
             },
             "1655770680": {
+                "P1": 2.58,
+                "P2": 1.15,
                 "humidity": 48.09,
                 "pressure": 99353.34,
                 "temperature": 17.69
             },
             "1655771040": {
+                "P1": 7.4,
+                "P2": 1.7,
                 "humidity": 47.52,
                 "pressure": 99341.88,
                 "temperature": 17.63
             },
             "1655771400": {
+                "P1": 5.28,
+                "P2": 1.8,
                 "humidity": 47.56,
                 "pressure": 99332.0,
                 "temperature": 17.69
             },
             "1655771760": {
+                "P1": 5.3,
+                "P2": 1.73,
                 "humidity": 47.84,
                 "pressure": 99329.84,
                 "temperature": 17.71
             },
             "1655772120": {
+                "P1": 3.85,
+                "P2": 1.35,
                 "humidity": 49.03,
                 "pressure": 99321.56,
                 "temperature": 17.72
             },
             "1655772480": {
+                "P1": 5.6,
+                "P2": 1.4,
                 "humidity": 49.07,
                 "pressure": 99336.25,
                 "temperature": 17.8
             },
             "1655772840": {
+                "P1": 3.72,
+                "P2": 1.45,
                 "humidity": 48.88,
                 "pressure": 99322.63,
                 "temperature": 17.87
             },
             "1655773200": {
+                "P1": 4.78,
+                "P2": 0.93,
                 "humidity": 49.25,
                 "pressure": 99314.34,
                 "temperature": 17.88
             },
             "1655773560": {
+                "P1": 3.65,
+                "P2": 1.4,
                 "humidity": 49.79,
                 "pressure": 99317.53,
                 "temperature": 17.85
             },
             "1655773920": {
+                "P1": 4.97,
+                "P2": 1.4,
                 "humidity": 49.31,
                 "pressure": 99314.63,
                 "temperature": 17.81
             },
             "1655774280": {
+                "P1": 4.35,
+                "P2": 1.7,
                 "humidity": 49.74,
                 "pressure": 99305.81,
                 "temperature": 17.81
             },
             "1655774640": {
+                "P1": 5.43,
+                "P2": 1.2,
                 "humidity": 52.01,
                 "pressure": 99309.03,
                 "temperature": 17.73
             },
             "1655775000": {
+                "P1": 4.9,
+                "P2": 1.45,
                 "humidity": 52.24,
                 "pressure": 99307.44,
                 "temperature": 17.67
             },
             "1655775360": {
+                "P1": 3.5,
+                "P2": 1.3,
                 "humidity": 51.34,
                 "pressure": 99305.31,
                 "temperature": 17.58
             },
             "1655775720": {
+                "P1": 2.45,
+                "P2": 1.0,
                 "humidity": 52.27,
                 "pressure": 99309.88,
                 "temperature": 17.53
             },
             "1655776080": {
+                "P1": 0.93,
+                "P2": 0.7,
                 "humidity": 53.63,
                 "pressure": 99307.47,
                 "temperature": 17.46
             },
             "1655776440": {
+                "P1": 4.07,
+                "P2": 1.17,
                 "humidity": 54.75,
                 "pressure": 99306.13,
                 "temperature": 17.43
             },
             "1655776800": {
+                "P1": 3.83,
+                "P2": 1.0,
                 "humidity": 54.42,
                 "pressure": 99317.06,
                 "temperature": 17.42
             },
             "1655777160": {
+                "P1": 1.15,
+                "P2": 0.8,
                 "humidity": 54.56,
                 "pressure": 99301.59,
                 "temperature": 17.39
             },
             "1655777520": {
+                "P1": 1.83,
+                "P2": 0.73,
                 "humidity": 55.06,
                 "pressure": 99307.47,
                 "temperature": 17.3
             },
             "1655777880": {
+                "P1": 3.15,
+                "P2": 1.27,
                 "humidity": 53.52,
                 "pressure": 99301.34,
                 "temperature": 17.04
             },
             "1655778240": {
+                "P1": 3.47,
+                "P2": 1.2,
                 "humidity": 54.7,
                 "pressure": 99298.31,
                 "temperature": 16.65
             },
+            "1655778600": {
+                "P1": 3.92,
+                "P2": 1.5
+            },
             "1655778960": {
+                "P1": 6.97,
+                "P2": 1.63,
                 "humidity": 56.32,
                 "pressure": 99282.97,
                 "temperature": 16.14
             },
             "1655779320": {
+                "P1": 7.63,
+                "P2": 1.7,
                 "humidity": 58.17,
                 "pressure": 99279.66,
                 "temperature": 15.86
             },
             "1655779680": {
+                "P1": 4.35,
+                "P2": 1.88,
                 "humidity": 57.83,
                 "pressure": 99271.06,
                 "temperature": 15.73
             },
             "1655780040": {
+                "P1": 3.6,
+                "P2": 1.7,
                 "humidity": 57.84,
                 "pressure": 99268.34,
                 "temperature": 15.63
             },
             "1655780400": {
+                "P1": 5.97,
+                "P2": 1.67,
                 "humidity": 59.71,
                 "pressure": 99262.66,
                 "temperature": 15.49
             },
             "1655780760": {
+                "P1": 2.8,
+                "P2": 1.95,
                 "humidity": 60.4,
                 "pressure": 99263.91,
                 "temperature": 15.42
             },
             "1655781120": {
+                "P1": 6.9,
+                "P2": 1.8,
                 "humidity": 59.28,
                 "pressure": 99262.03,
                 "temperature": 15.37
             },
             "1655781480": {
+                "P1": 6.72,
+                "P2": 2.0,
                 "humidity": 58.75,
                 "pressure": 99259.84,
                 "temperature": 15.29
             },
             "1655781840": {
+                "P1": 6.47,
+                "P2": 1.95,
                 "humidity": 61.5,
                 "pressure": 99266.75,
                 "temperature": 15.25
             },
             "1655782200": {
+                "P1": 7.18,
+                "P2": 2.03,
                 "humidity": 58.99,
                 "pressure": 99268.84,
                 "temperature": 15.17
             },
             "1655782560": {
+                "P1": 4.25,
+                "P2": 1.6,
                 "humidity": 59.27,
                 "pressure": 99269.31,
                 "temperature": 15.14
             },
             "1655782920": {
+                "P1": 3.35,
+                "P2": 1.77,
                 "humidity": 60.68,
                 "pressure": 99269.81,
                 "temperature": 15.11
             },
             "1655783280": {
+                "P1": 3.92,
+                "P2": 1.73,
                 "humidity": 61.5,
                 "pressure": 99275.16,
                 "temperature": 15.11
@@ -207,12 +289,26 @@
                 "pressure": 99274.34,
                 "temperature": 15.11
             },
+            "1655784000": {
+                "P1": 2.42,
+                "P2": 1.55
+            },
+            "1655784360": {
+                "P1": 2.47,
+                "P2": 1.27
+            },
+            "1655784720": {
+                "P1": 4.5,
+                "P2": 1.55
+            },
             "1655785080": {
                 "humidity": 62.77,
                 "pressure": 99285.66,
                 "temperature": 15.28
             },
             "1655785440": {
+                "P1": 2.95,
+                "P2": 1.6,
                 "humidity": 62.99,
                 "pressure": 99287.28,
                 "temperature": 15.34
@@ -223,86 +319,120 @@
                 "temperature": 15.43
             },
             "1655786160": {
+                "P1": 1.0,
+                "P2": 1.0,
                 "humidity": 62.64,
                 "pressure": 99285.5,
                 "temperature": 15.45
             },
             "1655786520": {
+                "P1": 1.95,
+                "P2": 1.05,
                 "humidity": 62.23,
                 "pressure": 99278.06,
                 "temperature": 15.47
             },
             "1655786880": {
+                "P1": 1.3,
+                "P2": 1.0,
                 "humidity": 62.55,
                 "pressure": 99280.22,
                 "temperature": 15.5
             },
             "1655787240": {
+                "P1": 1.13,
+                "P2": 0.9,
                 "humidity": 60.27,
                 "pressure": 99282.66,
                 "temperature": 15.57
             },
             "1655787600": {
+                "P1": 0.85,
+                "P2": 0.68,
                 "humidity": 61.64,
                 "pressure": 99290.69,
                 "temperature": 15.67
             },
             "1655787960": {
+                "P1": 0.6,
+                "P2": 0.6,
                 "humidity": 61.79,
                 "pressure": 99292.88,
                 "temperature": 15.75
             },
             "1655788320": {
+                "P1": 1.1,
+                "P2": 0.65,
                 "humidity": 61.46,
                 "pressure": 99303.13,
                 "temperature": 15.89
             },
             "1655788680": {
+                "P1": 0.75,
+                "P2": 0.6,
                 "humidity": 60.19,
                 "pressure": 99300.25,
                 "temperature": 16.06
             },
             "1655789040": {
+                "P1": 0.7,
+                "P2": 0.7,
                 "humidity": 61.57,
                 "pressure": 99301.34,
                 "temperature": 16.1
             },
             "1655789400": {
+                "P1": 3.77,
+                "P2": 1.07,
                 "humidity": 62.13,
                 "pressure": 99302.16,
                 "temperature": 16.11
             },
             "1655789760": {
+                "P1": 1.02,
+                "P2": 0.65,
                 "humidity": 60.45,
                 "pressure": 99311.47,
                 "temperature": 16.13
             },
             "1655790120": {
+                "P1": 0.98,
+                "P2": 0.82,
                 "humidity": 61.26,
                 "pressure": 99305.09,
                 "temperature": 16.14
             },
             "1655790480": {
+                "P1": 1.5,
+                "P2": 0.6,
                 "humidity": 61.01,
                 "pressure": 99314.16,
                 "temperature": 16.18
             },
             "1655790840": {
+                "P1": 0.82,
+                "P2": 0.6,
                 "humidity": 60.52,
                 "pressure": 99320.06,
                 "temperature": 16.25
             },
             "1655791200": {
+                "P1": 0.6,
+                "P2": 0.6,
                 "humidity": 61.45,
                 "pressure": 99318.22,
                 "temperature": 16.31
             },
             "1655791560": {
+                "P1": 0.6,
+                "P2": 0.6,
                 "humidity": 60.4,
                 "pressure": 99323.31,
                 "temperature": 16.38
             },
             "1655791920": {
+                "P1": 1.05,
+                "P2": 0.6,
                 "humidity": 61.14,
                 "pressure": 99328.63,
                 "temperature": 16.43
@@ -313,21 +443,29 @@
                 "temperature": 16.54
             },
             "1655792640": {
+                "P1": 1.27,
+                "P2": 0.63,
                 "humidity": 60.25,
                 "pressure": 99330.31,
                 "temperature": 16.65
             },
             "1655793000": {
+                "P1": 0.4,
+                "P2": 0.4,
                 "humidity": 60.11,
                 "pressure": 99331.94,
                 "temperature": 16.76
             },
             "1655793360": {
+                "P1": 0.4,
+                "P2": 0.4,
                 "humidity": 60.25,
                 "pressure": 99328.81,
                 "temperature": 16.89
             },
             "1655793720": {
+                "P1": 2.53,
+                "P2": 0.5,
                 "humidity": 59.65,
                 "pressure": 99343.75,
                 "temperature": 17.06
@@ -338,76 +476,106 @@
                 "temperature": 17.14
             },
             "1655794440": {
+                "P1": 0.4,
+                "P2": 0.4,
                 "humidity": 58.77,
                 "pressure": 99354.97,
                 "temperature": 17.28
             },
             "1655794800": {
+                "P1": 0.3,
+                "P2": 0.3,
                 "humidity": 58.91,
                 "pressure": 99354.72,
                 "temperature": 17.35
             },
             "1655795160": {
+                "P1": 0.77,
+                "P2": 0.7,
                 "humidity": 59.07,
                 "pressure": 99364.06,
                 "temperature": 17.43
             },
             "1655795520": {
+                "P1": 0.5,
+                "P2": 0.5,
                 "humidity": 59.06,
                 "pressure": 99363.5,
                 "temperature": 17.56
             },
             "1655795880": {
+                "P1": 0.68,
+                "P2": 0.6,
                 "humidity": 59.18,
                 "pressure": 99370.16,
                 "temperature": 17.69
             },
             "1655796240": {
+                "P1": 0.43,
+                "P2": 0.43,
                 "humidity": 58.44,
                 "pressure": 99376.28,
                 "temperature": 17.85
             },
             "1655796600": {
+                "P1": 0.38,
+                "P2": 0.38,
                 "humidity": 58.11,
                 "pressure": 99384.84,
                 "temperature": 17.97
             },
             "1655796960": {
+                "P1": 0.43,
+                "P2": 0.4,
                 "humidity": 57.79,
                 "pressure": 99386.97,
                 "temperature": 18.06
             },
             "1655797320": {
+                "P1": 0.3,
+                "P2": 0.3,
                 "humidity": 58.1,
                 "pressure": 99387.5,
                 "temperature": 18.13
             },
             "1655797680": {
+                "P1": 0.4,
+                "P2": 0.4,
                 "humidity": 57.54,
                 "pressure": 99396.53,
                 "temperature": 18.22
             },
             "1655798040": {
+                "P1": 0.4,
+                "P2": 0.4,
                 "humidity": 57.67,
                 "pressure": 99393.59,
                 "temperature": 18.29
             },
             "1655798400": {
+                "P1": 0.3,
+                "P2": 0.3,
                 "humidity": 56.97,
                 "pressure": 99386.28,
                 "temperature": 18.55
             },
             "1655798760": {
+                "P1": 0.2,
+                "P2": 0.2,
                 "humidity": 56.54,
                 "pressure": 99389.94,
                 "temperature": 18.7
             },
             "1655799120": {
+                "P1": 0.3,
+                "P2": 0.3,
                 "humidity": 56.06,
                 "pressure": 99398.44,
                 "temperature": 18.92
             },
             "1655799480": {
+                "P1": 0.57,
+                "P2": 0.38,
                 "humidity": 56.56,
                 "pressure": 99393.56,
                 "temperature": 18.99
@@ -418,14 +586,26 @@
                 "temperature": 19.12
             },
             "1655800200": {
+                "P1": 0.55,
+                "P2": 0.3,
                 "humidity": 55.22,
                 "pressure": 99401.44,
                 "temperature": 19.25
             },
             "1655800560": {
+                "P1": 0.3,
+                "P2": 0.3,
                 "humidity": 55.5,
                 "pressure": 99405.94,
                 "temperature": 19.3
+            },
+            "1655801280": {
+                "P1": 0.63,
+                "P2": 0.4
+            },
+            "1655801640": {
+                "P1": 1.0,
+                "P2": 0.5
             },
             "1655802000": {
                 "humidity": 54.62,
@@ -433,26 +613,36 @@
                 "temperature": 19.59
             },
             "1655802720": {
+                "P1": 0.38,
+                "P2": 0.3,
                 "humidity": 53.64,
                 "pressure": 99412.34,
                 "temperature": 19.68
             },
             "1655803080": {
+                "P1": 0.3,
+                "P2": 0.3,
                 "humidity": 53.06,
                 "pressure": 99422.59,
                 "temperature": 19.61
             },
             "1655803440": {
+                "P1": 0.3,
+                "P2": 0.3,
                 "humidity": 52.97,
                 "pressure": 99423.97,
                 "temperature": 19.59
             },
             "1655803800": {
+                "P1": 0.28,
+                "P2": 0.28,
                 "humidity": 53.87,
                 "pressure": 99427.53,
                 "temperature": 19.49
             },
             "1655804520": {
+                "P1": 0.35,
+                "P2": 0.3,
                 "humidity": 54.5,
                 "pressure": 99429.75,
                 "temperature": 19.36
@@ -463,11 +653,15 @@
                 "temperature": 19.33
             },
             "1655805240": {
+                "P1": 0.3,
+                "P2": 0.3,
                 "humidity": 54.93,
                 "pressure": 99437.56,
                 "temperature": 19.28
             },
             "1655805600": {
+                "P1": 0.2,
+                "P2": 0.2,
                 "humidity": 54.46,
                 "pressure": 99445.59,
                 "temperature": 19.28
@@ -493,26 +687,40 @@
                 "temperature": 19.09
             },
             "1655807760": {
+                "P1": 0.3,
+                "P2": 0.3,
                 "humidity": 54.72,
                 "pressure": 99463.56,
                 "temperature": 19.17
             },
             "1655808120": {
+                "P1": 3.73,
+                "P2": 0.3,
                 "humidity": 54.92,
                 "pressure": 99465.16,
                 "temperature": 19.23
             },
+            "1655808480": {
+                "P1": 0.2,
+                "P2": 0.2
+            },
             "1655808840": {
+                "P1": 0.2,
+                "P2": 0.2,
                 "humidity": 54.93,
                 "pressure": 99462.63,
                 "temperature": 19.47
             },
             "1655809200": {
+                "P1": 0.2,
+                "P2": 0.2,
                 "humidity": 54.69,
                 "pressure": 99474.03,
                 "temperature": 19.58
             },
             "1655809560": {
+                "P1": 0.3,
+                "P2": 0.3,
                 "humidity": 54.05,
                 "pressure": 99466.03,
                 "temperature": 19.93
@@ -523,9 +731,15 @@
                 "temperature": 20.26
             },
             "1655810280": {
+                "P1": 0.2,
+                "P2": 0.2,
                 "humidity": 53.32,
                 "pressure": 99464.91,
                 "temperature": 20.28
+            },
+            "1655810640": {
+                "P1": 0.3,
+                "P2": 0.3
             },
             "1655811000": {
                 "humidity": 53.39,
@@ -533,26 +747,40 @@
                 "temperature": 20.38
             },
             "1655811360": {
+                "P1": 0.3,
+                "P2": 0.3,
                 "humidity": 53.22,
                 "pressure": 99457.44,
                 "temperature": 20.49
             },
             "1655811720": {
+                "P1": 0.3,
+                "P2": 0.3,
                 "humidity": 52.78,
                 "pressure": 99463.19,
                 "temperature": 20.62
             },
+            "1655812080": {
+                "P1": 0.2,
+                "P2": 0.2
+            },
             "1655812440": {
+                "P1": 0.43,
+                "P2": 0.3,
                 "humidity": 52.7,
                 "pressure": 99462.16,
                 "temperature": 20.82
             },
             "1655812800": {
+                "P1": 0.22,
+                "P2": 0.22,
                 "humidity": 52.45,
                 "pressure": 99477.19,
                 "temperature": 20.83
             },
             "1655813160": {
+                "P1": 0.75,
+                "P2": 0.5,
                 "humidity": 52.19,
                 "pressure": 99472.91,
                 "temperature": 20.82
@@ -563,21 +791,29 @@
                 "temperature": 20.73
             },
             "1655813880": {
+                "P1": 0.5,
+                "P2": 0.43,
                 "humidity": 52.23,
                 "pressure": 99485.94,
                 "temperature": 20.69
             },
             "1655814240": {
+                "P1": 1.55,
+                "P2": 0.47,
                 "humidity": 52.73,
                 "pressure": 99487.81,
                 "temperature": 20.69
             },
             "1655814600": {
+                "P1": 0.95,
+                "P2": 0.5,
                 "humidity": 52.47,
                 "pressure": 99481.09,
                 "temperature": 20.71
             },
             "1655814960": {
+                "P1": 0.98,
+                "P2": 0.85,
                 "humidity": 52.71,
                 "pressure": 99487.44,
                 "temperature": 20.81
@@ -588,51 +824,83 @@
                 "temperature": 20.83
             },
             "1655816040": {
+                "P1": 1.13,
+                "P2": 0.63,
                 "humidity": 53.0,
                 "pressure": 99509.34,
                 "temperature": 20.58
             },
             "1655816400": {
+                "P1": 0.95,
+                "P2": 0.7,
                 "humidity": 53.33,
                 "pressure": 99516.44,
                 "temperature": 20.49
             },
             "1655816760": {
+                "P1": 0.5,
+                "P2": 0.5,
                 "humidity": 53.62,
                 "pressure": 99532.5,
                 "temperature": 20.25
             },
+            "1655817120": {
+                "P1": 1.2,
+                "P2": 0.7
+            },
             "1655817480": {
+                "P1": 4.13,
+                "P2": 0.5,
                 "humidity": 55.87,
                 "pressure": 99527.44,
                 "temperature": 19.89
             },
+            "1655817840": {
+                "P1": 1.2,
+                "P2": 0.7
+            },
             "1655818200": {
+                "P1": 0.7,
+                "P2": 0.7,
                 "humidity": 55.88,
                 "pressure": 99522.38,
                 "temperature": 19.82
             },
             "1655818560": {
+                "P1": 1.25,
+                "P2": 0.7,
                 "humidity": 55.96,
                 "pressure": 99526.16,
                 "temperature": 19.76
             },
             "1655818920": {
+                "P1": 1.3,
+                "P2": 0.77,
                 "humidity": 55.33,
                 "pressure": 99529.66,
                 "temperature": 19.71
             },
             "1655819280": {
+                "P1": 1.58,
+                "P2": 0.8,
                 "humidity": 55.67,
                 "pressure": 99533.78,
                 "temperature": 19.59
             },
+            "1655819640": {
+                "P1": 2.25,
+                "P2": 1.2
+            },
             "1655820000": {
+                "P1": 0.8,
+                "P2": 0.8,
                 "humidity": 55.47,
                 "pressure": 99536.59,
                 "temperature": 19.33
             },
             "1655820360": {
+                "P1": 1.52,
+                "P2": 1.13,
                 "humidity": 56.44,
                 "pressure": 99545.84,
                 "temperature": 18.96
@@ -648,11 +916,15 @@
                 "temperature": 18.49
             },
             "1655821440": {
+                "P1": 2.13,
+                "P2": 0.9,
                 "humidity": 56.88,
                 "pressure": 99550.19,
                 "temperature": 18.35
             },
             "1655821800": {
+                "P1": 1.2,
+                "P2": 0.82,
                 "humidity": 57.38,
                 "pressure": 99553.69,
                 "temperature": 18.25
@@ -663,11 +935,15 @@
                 "temperature": 18.14
             },
             "1655822520": {
+                "P1": 0.65,
+                "P2": 0.65,
                 "humidity": 57.88,
                 "pressure": 99553.44,
                 "temperature": 18.11
             },
             "1655822880": {
+                "P1": 0.9,
+                "P2": 0.65,
                 "humidity": 58.75,
                 "pressure": 99547.28,
                 "temperature": 18.06
@@ -678,66 +954,96 @@
                 "temperature": 17.93
             },
             "1655823960": {
+                "P1": 2.6,
+                "P2": 0.8,
                 "humidity": 58.15,
                 "pressure": 99548.84,
                 "temperature": 17.86
             },
             "1655824320": {
+                "P1": 1.13,
+                "P2": 0.7,
                 "humidity": 58.99,
                 "pressure": 99549.38,
                 "temperature": 17.83
             },
             "1655824680": {
+                "P1": 2.15,
+                "P2": 0.68,
                 "humidity": 59.37,
                 "pressure": 99540.28,
                 "temperature": 17.79
             },
             "1655825040": {
+                "P1": 2.15,
+                "P2": 0.88,
                 "humidity": 58.29,
                 "pressure": 99545.63,
                 "temperature": 17.84
             },
             "1655825400": {
+                "P1": 0.85,
+                "P2": 0.65,
                 "humidity": 58.69,
                 "pressure": 99531.47,
                 "temperature": 17.84
             },
             "1655825760": {
+                "P1": 0.82,
+                "P2": 0.7,
                 "humidity": 58.47,
                 "pressure": 99517.91,
                 "temperature": 17.95
             },
             "1655826120": {
+                "P1": 1.55,
+                "P2": 0.73,
                 "humidity": 59.17,
                 "pressure": 99516.84,
                 "temperature": 18.07
             },
+            "1655826480": {
+                "P1": 1.08,
+                "P2": 0.5
+            },
             "1655827200": {
+                "P1": 2.13,
+                "P2": 0.6,
                 "humidity": 57.13,
                 "pressure": 99538.66,
                 "temperature": 18.76
             },
             "1655827560": {
+                "P1": 0.5,
+                "P2": 0.5,
                 "humidity": 56.81,
                 "pressure": 99538.06,
                 "temperature": 18.84
             },
             "1655827920": {
+                "P1": 0.85,
+                "P2": 0.5,
                 "humidity": 56.68,
                 "pressure": 99540.78,
                 "temperature": 18.89
             },
             "1655828280": {
+                "P1": 1.1,
+                "P2": 0.6,
                 "humidity": 56.75,
                 "pressure": 99540.5,
                 "temperature": 18.91
             },
             "1655828640": {
+                "P1": 0.5,
+                "P2": 0.5,
                 "humidity": 56.62,
                 "pressure": 99541.28,
                 "temperature": 18.96
             },
             "1655829000": {
+                "P1": 3.7,
+                "P2": 0.6,
                 "humidity": 56.44,
                 "pressure": 99537.5,
                 "temperature": 19.02
@@ -748,96 +1054,138 @@
                 "temperature": 19.07
             },
             "1655829720": {
+                "P1": 1.67,
+                "P2": 0.82,
                 "humidity": 56.13,
                 "pressure": 99556.19,
                 "temperature": 19.18
             },
             "1655830080": {
+                "P1": 2.3,
+                "P2": 0.68,
                 "humidity": 56.06,
                 "pressure": 99565.81,
                 "temperature": 19.19
             },
             "1655830440": {
+                "P1": 0.8,
+                "P2": 0.5,
                 "humidity": 55.68,
                 "pressure": 99557.78,
                 "temperature": 19.19
             },
             "1655830800": {
+                "P1": 1.02,
+                "P2": 0.6,
                 "humidity": 56.29,
                 "pressure": 99560.75,
                 "temperature": 19.17
             },
             "1655831160": {
+                "P1": 0.55,
+                "P2": 0.5,
                 "humidity": 56.07,
                 "pressure": 99561.0,
                 "temperature": 19.21
             },
             "1655831520": {
+                "P1": 2.08,
+                "P2": 0.6,
                 "humidity": 55.7,
                 "pressure": 99569.84,
                 "temperature": 19.22
             },
             "1655831880": {
+                "P1": 0.65,
+                "P2": 0.63,
                 "humidity": 56.06,
                 "pressure": 99574.09,
                 "temperature": 19.23
             },
             "1655832240": {
+                "P1": 1.25,
+                "P2": 0.47,
                 "humidity": 56.39,
                 "pressure": 99564.75,
                 "temperature": 19.2
             },
             "1655832600": {
+                "P1": 2.15,
+                "P2": 0.8,
                 "humidity": 56.15,
                 "pressure": 99567.16,
                 "temperature": 19.22
             },
             "1655832960": {
+                "P1": 1.3,
+                "P2": 0.93,
                 "humidity": 56.14,
                 "pressure": 99543.34,
                 "temperature": 19.2
             },
             "1655833320": {
+                "P1": 1.6,
+                "P2": 1.4,
                 "humidity": 55.98,
                 "pressure": 99537.78,
                 "temperature": 19.01
             },
             "1655833680": {
+                "P1": 1.45,
+                "P2": 1.05,
                 "humidity": 56.0,
                 "pressure": 99539.72,
                 "temperature": 18.8
             },
             "1655834040": {
+                "P1": 2.92,
+                "P2": 1.27,
                 "humidity": 56.06,
                 "pressure": 99528.81,
                 "temperature": 18.56
             },
             "1655834400": {
+                "P1": 2.22,
+                "P2": 1.42,
                 "humidity": 56.46,
                 "pressure": 99536.03,
                 "temperature": 18.35
             },
             "1655835120": {
+                "P1": 1.27,
+                "P2": 1.1,
                 "humidity": 57.08,
                 "pressure": 99530.72,
                 "temperature": 18.09
             },
+            "1655835840": {
+                "P1": 4.25,
+                "P2": 1.45
+            },
             "1655836200": {
+                "P1": 1.65,
+                "P2": 0.9,
                 "humidity": 57.27,
                 "pressure": 99547.5,
                 "temperature": 17.78
             },
             "1655836560": {
+                "P1": 1.73,
+                "P2": 0.9,
                 "humidity": 57.87,
                 "pressure": 99544.25,
                 "temperature": 17.66
             },
             "1655836920": {
+                "P1": 3.8,
+                "P2": 1.25,
                 "humidity": 58.0,
                 "pressure": 99552.28,
                 "temperature": 17.61
             },
             "1655837280": {
+                "P1": 1.02,
+                "P2": 0.77,
                 "humidity": 57.96,
                 "pressure": 99547.44,
                 "temperature": 17.47
@@ -848,11 +1196,19 @@
                 "temperature": 17.39
             },
             "1655838000": {
+                "P1": 3.97,
+                "P2": 2.4,
                 "humidity": 58.12,
                 "pressure": 99557.28,
                 "temperature": 17.37
             },
+            "1655838360": {
+                "P1": 3.85,
+                "P2": 2.25
+            },
             "1655838720": {
+                "P1": 1.9,
+                "P2": 1.6,
                 "humidity": 58.18,
                 "pressure": 99547.91,
                 "temperature": 17.24
@@ -863,31 +1219,51 @@
                 "temperature": 17.09
             },
             "1655839800": {
+                "P1": 1.88,
+                "P2": 1.75,
                 "humidity": 58.79,
                 "pressure": 99555.53,
                 "temperature": 17.05
             },
+            "1655840160": {
+                "P1": 2.2,
+                "P2": 1.9
+            },
+            "1655840520": {
+                "P1": 4.53,
+                "P2": 2.78
+            },
             "1655840880": {
+                "P1": 2.95,
+                "P2": 2.1,
                 "humidity": 58.51,
                 "pressure": 99569.22,
                 "temperature": 16.76
             },
             "1655841240": {
+                "P1": 2.45,
+                "P2": 1.7,
                 "humidity": 59.26,
                 "pressure": 99576.13,
                 "temperature": 16.67
             },
             "1655841600": {
+                "P1": 1.95,
+                "P2": 1.65,
                 "humidity": 58.75,
                 "pressure": 99570.75,
                 "temperature": 16.61
             },
             "1655841960": {
+                "P1": 1.77,
+                "P2": 1.27,
                 "humidity": 59.24,
                 "pressure": 99581.41,
                 "temperature": 16.61
             },
             "1655842320": {
+                "P1": 1.38,
+                "P2": 1.08,
                 "humidity": 59.64,
                 "pressure": 99588.56,
                 "temperature": 16.56
@@ -898,161 +1274,229 @@
                 "temperature": 16.53
             },
             "1655843400": {
+                "P1": 0.9,
+                "P2": 0.85,
                 "humidity": 59.36,
                 "pressure": 99601.03,
                 "temperature": 16.5
             },
             "1655843760": {
+                "P1": 0.95,
+                "P2": 0.93,
                 "humidity": 59.32,
                 "pressure": 99611.75,
                 "temperature": 16.55
             },
             "1655844120": {
+                "P1": 2.5,
+                "P2": 1.27,
                 "humidity": 59.35,
                 "pressure": 99598.69,
                 "temperature": 16.54
             },
             "1655844480": {
+                "P1": 2.15,
+                "P2": 1.2,
                 "humidity": 59.89,
                 "pressure": 99591.94,
                 "temperature": 16.46
             },
             "1655844840": {
+                "P1": 1.85,
+                "P2": 1.38,
                 "humidity": 59.35,
                 "pressure": 99600.72,
                 "temperature": 16.41
             },
             "1655845200": {
+                "P1": 0.9,
+                "P2": 0.9,
                 "humidity": 59.81,
                 "pressure": 99615.81,
                 "temperature": 16.31
             },
             "1655845560": {
+                "P1": 2.4,
+                "P2": 1.55,
                 "humidity": 59.99,
                 "pressure": 99623.56,
                 "temperature": 16.32
             },
             "1655845920": {
+                "P1": 1.6,
+                "P2": 1.0,
                 "humidity": 59.92,
                 "pressure": 99613.97,
                 "temperature": 16.31
             },
             "1655846280": {
+                "P1": 1.23,
+                "P2": 0.9,
                 "humidity": 60.2,
                 "pressure": 99604.59,
                 "temperature": 16.29
             },
             "1655846640": {
+                "P1": 2.05,
+                "P2": 0.9,
                 "humidity": 60.4,
                 "pressure": 99594.19,
                 "temperature": 16.27
             },
             "1655847000": {
+                "P1": 2.88,
+                "P2": 1.1,
                 "humidity": 60.5,
                 "pressure": 99597.13,
                 "temperature": 16.25
             },
             "1655847360": {
+                "P1": 1.8,
+                "P2": 1.15,
                 "humidity": 59.59,
                 "pressure": 99594.19,
                 "temperature": 16.22
             },
             "1655847720": {
+                "P1": 2.6,
+                "P2": 1.1,
                 "humidity": 60.4,
                 "pressure": 99599.19,
                 "temperature": 16.18
             },
             "1655848080": {
+                "P1": 1.25,
+                "P2": 0.85,
                 "humidity": 60.35,
                 "pressure": 99591.19,
                 "temperature": 16.18
             },
             "1655848440": {
+                "P1": 0.93,
+                "P2": 0.8,
                 "humidity": 60.29,
                 "pressure": 99596.0,
                 "temperature": 16.16
             },
             "1655848800": {
+                "P1": 1.38,
+                "P2": 0.68,
                 "humidity": 60.79,
                 "pressure": 99597.03,
                 "temperature": 16.15
             },
+            "1655849160": {
+                "P1": 1.33,
+                "P2": 0.8
+            },
             "1655850240": {
+                "P1": 1.63,
+                "P2": 1.25,
                 "humidity": 60.26,
                 "pressure": 99589.47,
                 "temperature": 16.02
             },
             "1655850600": {
+                "P1": 1.83,
+                "P2": 1.3,
                 "humidity": 60.71,
                 "pressure": 99576.59,
                 "temperature": 15.94
             },
             "1655850960": {
+                "P1": 2.17,
+                "P2": 1.52,
                 "humidity": 60.83,
                 "pressure": 99577.59,
                 "temperature": 15.87
             },
             "1655851320": {
+                "P1": 3.28,
+                "P2": 1.73,
                 "humidity": 60.43,
                 "pressure": 99585.78,
                 "temperature": 15.81
             },
             "1655851680": {
+                "P1": 1.9,
+                "P2": 1.65,
                 "humidity": 60.83,
                 "pressure": 99586.53,
                 "temperature": 15.76
             },
             "1655852040": {
+                "P1": 1.73,
+                "P2": 1.55,
                 "humidity": 61.87,
                 "pressure": 99587.75,
                 "temperature": 15.68
             },
             "1655852400": {
+                "P1": 4.47,
+                "P2": 1.6,
                 "humidity": 60.97,
                 "pressure": 99588.81,
                 "temperature": 15.67
             },
             "1655852760": {
+                "P1": 3.7,
+                "P2": 2.6,
                 "humidity": 61.75,
                 "pressure": 99585.59,
                 "temperature": 15.65
             },
             "1655853120": {
+                "P1": 3.03,
+                "P2": 2.3,
                 "humidity": 62.65,
                 "pressure": 99584.81,
                 "temperature": 15.65
             },
             "1655853480": {
+                "P1": 3.5,
+                "P2": 2.38,
                 "humidity": 61.6,
                 "pressure": 99582.41,
                 "temperature": 15.63
             },
             "1655853840": {
+                "P1": 3.85,
+                "P2": 2.95,
                 "humidity": 62.46,
                 "pressure": 99565.31,
                 "temperature": 15.59
             },
             "1655854200": {
+                "P1": 4.88,
+                "P2": 2.5,
                 "humidity": 62.62,
                 "pressure": 99560.19,
                 "temperature": 15.52
             },
             "1655854560": {
+                "P1": 4.57,
+                "P2": 2.8,
                 "humidity": 61.79,
                 "pressure": 99558.56,
                 "temperature": 15.51
             },
             "1655854920": {
+                "P1": 2.7,
+                "P2": 2.17,
                 "humidity": 62.93,
                 "pressure": 99550.47,
                 "temperature": 15.41
             },
             "1655855280": {
+                "P1": 4.2,
+                "P2": 2.1,
                 "humidity": 63.1,
                 "pressure": 99562.72,
                 "temperature": 15.42
             },
             "1655855640": {
+                "P1": 3.35,
+                "P2": 1.95,
                 "humidity": 62.63,
                 "pressure": 99555.78,
                 "temperature": 15.41

@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import os.path
 import pprint
 import requests
+import shutil
 import sys
 from datetime import datetime, tzinfo, timezone, date, timedelta
 import os, argparse, csv, json, glob
@@ -72,23 +73,27 @@ def get_data(box):
 	my_json = r.json()
 	return my_json
 
-def bq_json(my_json):
-	# generate json file to pass to big_query in google cloud
-	with open(bq_directory + 'bq_data.json', "a") as f:
-		f.write(json.dumps(my_json, sort_keys=True, indent=4))
+def bq_json():
+	# generate json file to hold data from all json files
+	# open file to read into
+	# open directory with files to read from
+	# open each file and dump into bq_data file
+	# https://stackoverflow.com/questions/17749484/python-script-to-concatenate-all-the-files-in-the-directory-into-one-file
+	outfilename = "./data/bq_data.json"
 
-def load_bq_data():
-	# load json file into big query in google cloud
-	# connect
-	# load data
-	# close connection
-	bigquery_client = bigquery.Client()
-	dataset_ref = bigquery_client.dataset('air_aberdeen_data_stack')
-	table_ref = dataset_ref.table('readings')
-	table = bigquery_client.get_table(table_ref)
-	
 
-	print('done loading big query')
+	with open(outfilename, "wb") as outfile:
+		print("opened file")
+		outfile.write("[".encode('ascii'))
+		for filename in glob.glob('./data/big_dump/*.json'):
+			if filename == outfilename:
+				continue
+			with open(filename, 'rb') as readfile:
+				print(filename)
+				shutil.copyfileobj(readfile, outfile)
+		outfile.write("]".encode('ascii'))
+		#f.write(json.dumps(my_json, sort_keys=True, indent=4))
+	print('done generating bq_data')
 
 def MrParsy ():
 	format = "pretty"
@@ -205,8 +210,8 @@ def tidy_values(our_list):
 		timestamp = timestamp // 360 * 360 #round to nearest minute
 		bq_reading = reading
 		bq_info.update(bq_reading)
-		bq_item = bq_info
-		bq_json(bq_item)
+		#bq_item = bq_info
+		#bq_json(bq_item)
 		new_dict[location_id]['readings'][timestamp] = {}
 		for option in sensorvalues:
 			if (option in reading):
@@ -307,6 +312,7 @@ def main():
 	cleanUpCSVs()
 	print('Reparsing to json for api v2')
 	apiv2_parser()
+	bq_json()
 	print("done and leaving the building")
 	sys.exit()
 

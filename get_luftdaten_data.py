@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import os.path
 import pprint
+import shutil
 import requests
 import sys
 from datetime import datetime, tzinfo, timezone, date, timedelta
@@ -89,6 +90,19 @@ def bq_json():
     # open each file and dump into bq_data file
     # https://stackoverflow.com/questions/17749484/python-script-to-concatenate-all-the-files-in-the-directory-into-one-file
     outfilename = "./data/bq_data.json"
+    with open(outfilename, "wb") as outfile:
+        print("opened file")
+        outfile.write("[".encode('ascii'))
+        for filename in glob.glob('./data/big_dump/*.json'):
+            if filename == outfilename:
+                continue
+            with open(filename, 'rb') as readfile:
+                print(filename)
+                shutil.copyfileobj(readfile, outfile)
+            outfile.write("]".encode('ascii'))
+    
+    
+    outfilename2 = "./data/bq_data2.json"
     bq_item = {}
     bq_info = {}
     bq_reading = {}
@@ -117,7 +131,7 @@ def bq_json():
                 print('bq_item2: ', bq_item)
 
         # write out dict as JSON to file
-    with open(outfilename, "w") as outfile:
+    with open(outfilename2, "w") as outfile:
         print("opened bq_data file")
         json.dump(bq_item, outfile)
         #  f.write("]".encode('ascii'))

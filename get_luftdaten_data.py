@@ -106,12 +106,10 @@ def bq_json():
                 new_dict = json.load(open(filename))
                # print(new_dict)
                 print(new_dict.values())
-                for i in new_dict:
-                    print(i)
-                    for j in i:
-                        print(j)
-                        bq_info['location_id'] = new_dict.get('info', {}).get('location_id')
-                        print(bq_info)
+                for key in new_dict:
+                    print(key, '->', new_dict[key])
+                    bq_info['location_id'] = new_dict[key].get('info', {}).get('location_id')
+                    print(bq_info)
 
                 # save values to dict
                 bq_item.update(bq_info)

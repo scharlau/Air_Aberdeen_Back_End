@@ -94,29 +94,32 @@ def bq_json():
     bq_reading = {}
     new_dict = {}
 
-    with open(outfilename, "wb") as outfile:
-        print("opened file")
-        # outfile.write("[".encode('ascii'))
-        for filename in glob.glob('./data/big_dump/*.json'):
-            if filename == outfilename:
-                continue
-            with open(filename, 'rb') as readfile:
-                print(filename)
-                # capture values from file into dict
-                new_dict = json.load(open(filename))
-               # print(new_dict)
-                print(new_dict.values())
-                for key in new_dict:
-                    print(key, '->', new_dict[key])
-                    bq_info['location_id'] = new_dict[key].get('info', {}).get('location_id')
-                    print(bq_info)
-
+    # outfile.write("[".encode('ascii'))
+    for filename in glob.glob('./data/big_dump/*.json'):
+        if filename == './data/big_dump/info.json':
+            continue
+        with open(filename, 'rb') as readfile:
+            print(filename)
+            # capture values from file into dict
+            new_dict = json.load(open(filename))
+            # print(new_dict)
+            # print(new_dict.values())
+            for key in new_dict:
+                # print(key, '->', new_dict[key])
+                location_id = new_dict[key].get(
+                    'info', {}).get('location_id')
+                bq_info[key] = location_id
+                bq_info['location_id'] = location_id
+                print('bq_item1: ', bq_item)
+                print('bq_info: ', bq_info)
                 # save values to dict
                 bq_item.update(bq_info)
+                print('bq_item2: ', bq_item)
 
         # write out dict as JSON to file
-        f = open(outfilename, 'w')
-        json.dump(bq_item, f)
+    with open(outfilename, "w") as outfile:
+        print("opened bq_data file")
+        json.dump(bq_item, outfile)
         #  f.write("]".encode('ascii'))
         # f.write(json.dumps(my_json, sort_keys=True, indent=4))
     print('done generating bq_data')

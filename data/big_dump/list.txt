@@ -1,4 +1,3 @@
-2022-06-25_sds011_sensor_25555.csv
 2022-06-25_sds011_sensor_32405.csv
 2022-06-25_bme280_sensor_41862.csv
 2022-06-25_sds011_sensor_45302.csv
@@ -23,7 +22,6 @@
 2022-06-25_sds011_sensor_41861.csv
 2022-06-25_sds011_sensor_27529.csv
 2022-06-25_bme280_sensor_45303.csv
-2022-06-25_dht22_sensor_25556.csv
 2022-06-25_dht22_sensor_17080.csv
 2022-06-25_dht22_sensor_32406.csv
 2022-06-25_sds011_sensor_27365.csv

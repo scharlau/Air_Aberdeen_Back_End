@@ -244,6 +244,34 @@ def tidy_values(our_list):
         bq_reading = reading
         bq_info.update(bq_reading)
 
+        # map item to sensor_reading object and add to list
+        # add empty values to bq_info for reading constructor
+        if (bq_info.get('humidity', None) == None):
+            bq_info['humidity'] = '0.0'
+        if (bq_info.get('temperature', None) == None):
+            bq_info['temperature'] = '0.0'
+        if (bq_info.get('pressure', None) == None):
+            bq_info['pressure'] = '0.0'
+        if (bq_info.get('P1', None) == None):
+            bq_info['P1'] = '0.0'
+        if (bq_info.get('P2', None) == None):
+            bq_info['P2'] = '0.0'
+        # print("bq_info-tidy: ", bq_info)
+        location_id = bq_info['location_id']
+        longitude = bq_info['longitude']
+        latitude = bq_info['latitude']
+        sensor_id = bq_info['sensor_id']
+        sensor_type = bq_info['sensor_type']
+        humidity = bq_info['humidity']
+        temperature = bq_info['temperature']
+        p1= bq_info['P1']
+        p2= bq_info['P2']
+        timestamp = bq_info['timestamp']
+        pressure = bq_info['pressure']
+
+        a_reading = Reading(location_id, longitude, latitude, sensor_id, sensor_type, humidity, temperature, p1, p2, timestamp, pressure)
+        sensor_readings.append(a_reading)
+
         new_dict[location_id]['readings'][timestamp] = {}
         for option in sensorvalues:
             if (option in reading):
@@ -251,36 +279,8 @@ def tidy_values(our_list):
                     new_dict[location_id]['readings'][timestamp].update({
                         option: float(reading[option])
                     })
-    # map item to sensor_reading object and add to list
-    # add empty values to bq_info for reading constructor
-    if (bq_info.get('humidity', None) == None):
-        bq_info['humidity'] = '0.0'
-    if (bq_info.get('temperature', None) == None):
-        bq_info['temperature'] = '0.0'
-    if (bq_info.get('pressure', None) == None):
-        bq_info['pressure'] = '0.0'
-    if (bq_info.get('P1', None) == None):
-        bq_info['P1'] = '0.0'
-    if (bq_info.get('P2', None) == None):
-        bq_info['P2'] = '0.0'
-    print("bq_info-tidy: ", bq_info)
-    location_id = bq_info['location_id']
-    longitude = bq_info['longitude']
-    latitude = bq_info['latitude']
-    sensor_id = bq_info['sensor_id']
-    sensor_type = bq_info['sensor_type']
-    humidity = bq_info['humidity']
-    temperature = bq_info['temperature']
-    p1= bq_info['P1']
-    p2= bq_info['P2']
-    timestamp = bq_info['timestamp']
-    pressure = bq_info['pressure']
-
-    a_reading = Reading(location_id, longitude, latitude, sensor_id, sensor_type, humidity, temperature, p1, p2, timestamp, pressure)
-    sensor_readings.append(a_reading)
 
     return(new_dict)
-
 
 def cleanUpCSVs():
     input_directory = file_directory
@@ -292,51 +292,6 @@ def cleanUpCSVs():
             f.write(input_file[22:] + "\n")
             os.remove(input_file)
         print("recored & deleted", input_file)
-
-
-def apiv2_parser():
-    input_directory = file_directory
-    if ((input_directory[-1:] != '\\') & (input_directory[-1:] != '/')):
-        input_directory = input_directory + "\\"
-    file_list = glob.iglob(input_directory + '*.json')
-    for input_file in file_list:
-        if not(input_file[-9:] == 'info.json'):
-            with open(input_file, "r") as f:
-                d = json.load(f)
-                location_id = list(d.keys())[0]
-
-                d_out = {}
-
-                d_out["info"] = d[location_id]["info"]
-
-                d_out["data"] = {"headers": [], "results": []}
-                print(location_id)
-                firsttimestamp = list(d[location_id]["readings"].keys())[0]
-                d_out["data"]["headers"] = []
-                d_out["data"]["headers"] = ["timestamp"]
-                for header in d[location_id]["readings"][firsttimestamp]:
-                    d_out["data"]["headers"].append(header)
-                for timestamp in d[location_id]["readings"]:
-                    tempdata = []
-                    tempdata.append(int(timestamp))
-                    for header in d_out["data"]["headers"]:
-                        try:
-                            if not(header == "timestamp"):
-                                tempdata.append(
-                                    d[location_id]["readings"][timestamp][header])
-                        except:
-                            tempdata.append(None)
-                    # tempdata.sort(key=lambda x:int(x[0]))
-                    d_out["data"]["results"].append(tempdata)
-            # save file
-            with open(input_directory + "v2/" + location_id + '.json', "w") as f:
-                if format == "pretty":
-                    f.write(json.dumps(d_out, sort_keys=True, indent=4))
-                else:
-                    f.write(json.dumps(d_out, sort_keys=True, indent=4))
-                print(input_directory + "v2/" +
-                      location_id + '.json' + " - created")
-
 
 def main():
     # These are pre-defined boxes for searching
@@ -375,8 +330,6 @@ def main():
     infolist()
     print('Removing csvs')
     cleanUpCSVs()
-    print('Reparsing to json for api v2')
-    apiv2_parser()
     bq_json()
     print("done and leaving the building")
     sys.exit()

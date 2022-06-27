@@ -4,6 +4,7 @@ from flask import request, jsonify, render_template
 from datetime import datetime, tzinfo, timezone, date, timedelta
 from dateutil import parser
 import math
+import get_luftdaten_data
 from math import sin, cos, sqrt, atan2, radians
 from operator import itemgetter 
 
@@ -13,6 +14,7 @@ json_file = "./data/bq_data"
 
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
+
 
 def getAllIdsInRadius (lat, lon, search_radius):
     # first find nearest weather city from weather_data

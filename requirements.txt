@@ -2,6 +2,8 @@ beautifulsoup4==4.9.3
 certifi==2021.5.30
 charset-normalizer==2.0.3
 click==8.0.1
+flask==2.1.2
+jinja2==3.0
 idna==3.2
 importlib-metadata==4.6.1
 MarkupSafe==2.0.1
@@ -12,4 +14,6 @@ gunicorn==20.1.0
 soupsieve==2.2.1
 typing-extensions==3.10.0.0
 urllib3==1.26.6
+werkzeug==2.1.2
+itsdangerous==2.1.2
 zipp==3.5.0

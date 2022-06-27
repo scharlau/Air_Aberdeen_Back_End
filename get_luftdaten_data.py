@@ -20,6 +20,30 @@ del_vals = ['altitude', 'durP1', 'ratioP1', 'durP2',
 file_directory = './data/big_dump/'
 bq_directory = './data/'
 
+# use this to hold value of readings to convert to JSON file at end
+sensor_readings = list()
+
+# use this to fill list of objects for JSON file
+
+
+class Reading:
+    def __init__(self, location_id, longitude, latitude, sensor_id, sensor_type, humidity, temperature,  P1, P2, timestamp, pressure):
+        self.location_id = location_id
+        self.longitude = longitude
+        self.latitude = latitude
+        self.sensor_id = sensor_id
+        self.sensor_type = sensor_type
+        self.humidity = humidity
+        self.temperature = temperature
+        self.P1 = P1
+        self.P2 = P2
+        self.pressure = pressure
+        self.timestamp = timestamp
+    
+    def toJson(self):
+        return json.dumps(self, default=lambda o:o.__dict__)
+
+
 
 def get_historic_data(current_data, start_date):
     # Download data for each sensor.
@@ -84,6 +108,23 @@ def get_data(box):
 
 
 def bq_json():
+    outfilename = "./data/bq_data.json"
+    with open(outfilename, "w") as outfile:
+        print("opened bq_data file")
+        for reading in sensor_readings:
+            tmpjson = reading.toJson()
+            print('tmpjson: ', tmpjson)
+            json.dump(tmpjson, outfile)
+
+
+           # json.dump(reading, outfile)
+    print("closed json")
+
+
+def bq_json_old():
+
+    # DO this as a list of readings that is turned into JSON
+
     # generate json file to hold data from all json files
     # open file to read into
     # open directory with files to read from
@@ -100,8 +141,7 @@ def bq_json():
                 print(filename)
                 shutil.copyfileobj(readfile, outfile)
             outfile.write("]".encode('ascii'))
-    
-    
+
     outfilename2 = "./data/bq_data2.json"
     bq_item = {}
     bq_info = {}
@@ -262,6 +302,7 @@ def tidy_values(our_list):
         timestamp = timestamp // 360 * 360  # round to nearest minute
         bq_reading = reading
         bq_info.update(bq_reading)
+
         # bq_item = bq_info
         # bq_json(bq_item)
         new_dict[location_id]['readings'][timestamp] = {}
@@ -271,6 +312,34 @@ def tidy_values(our_list):
                     new_dict[location_id]['readings'][timestamp].update({
                         option: float(reading[option])
                     })
+    # map item to sensor_reading object and add to list
+    # add empty values to bq_info for reading constructor
+    if (bq_info.get('humidity', None) == None):
+        bq_info['humidity'] = '0.0'
+    if (bq_info.get('temperature', None) == None):
+        bq_info['temperature'] = '0.0'
+    if (bq_info.get('pressure', None) == None):
+        bq_info['pressure'] = '0.0'
+    if (bq_info.get('P1', None) == None):
+        bq_info['P1'] = '0.0'
+    if (bq_info.get('P2', None) == None):
+        bq_info['P2'] = '0.0'
+    print("bq_info-tidy: ", bq_info)
+    location_id = bq_info['location_id']
+    longitude = bq_info['longitude']
+    latitude = bq_info['latitude']
+    sensor_id = bq_info['sensor_id']
+    sensor_type = bq_info['sensor_type']
+    humidity = bq_info['humidity']
+    temperature = bq_info['temperature']
+    p1= bq_info['P1']
+    p2= bq_info['P2']
+    timestamp = bq_info['timestamp']
+    pressure = bq_info['pressure']
+
+    a_reading = Reading(location_id, longitude, latitude, sensor_id, sensor_type, humidity, temperature, p1, p2, timestamp, pressure)
+    sensor_readings.append(a_reading)
+
     return(new_dict)
 
 

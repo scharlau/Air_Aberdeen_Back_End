@@ -73,7 +73,9 @@ def get_historic_data(current_data, start_date):
             for x in range(7):
                 point_date = point_date - timedelta(days=1)
             sensor_flag = False
-
+            # open file to clean it for the next run
+            f = open(file_directory + 'list.txt', 'w')
+            f.close()
 
 def downloader(full_link, name):
     fname = file_directory + name
@@ -102,7 +104,6 @@ def get_data(box):
     my_json = r.json()
     return my_json
 
-
 def bq_json():
     outfilename = "./data/bq_data.json"
     with open(outfilename, "w") as outfile:
@@ -113,7 +114,10 @@ def bq_json():
            # print('tmpjson: ', tmpjson)
             outfile.write(tmpjson)
             outfile.write(",")
-
+        # remove last ',' from end of file, then close bracket to complete JSON file
+        outfile.seek(0, os.SEEK_END)
+        outfile.seek(outfile.tell() -1, os.SEEK_SET)
+        outfile.truncate()
         outfile.write("]")
     print("closed json")
 

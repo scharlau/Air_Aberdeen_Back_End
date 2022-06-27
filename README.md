@@ -12,6 +12,10 @@ https://github.com/AirAberdeen/CTC16-Data-Gathering
 
 
 This is the basic version at the moment.
+This generates a JSON file of readings.
+
+Run get_luftdaten_data.py file to generate JSON file.
+Start flask server and then read JSON from link on landing page.
 
 
 

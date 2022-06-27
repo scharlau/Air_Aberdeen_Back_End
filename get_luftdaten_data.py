@@ -24,8 +24,6 @@ bq_directory = './data/'
 sensor_readings = list()
 
 # use this to fill list of objects for JSON file
-
-
 class Reading:
     def __init__(self, location_id, longitude, latitude, sensor_id, sensor_type, humidity, temperature,  P1, P2, timestamp, pressure):
         self.location_id = location_id
@@ -42,8 +40,6 @@ class Reading:
     
     def toJson(self):
         return json.dumps(self, default=lambda o:o.__dict__)
-
-
 
 def get_historic_data(current_data, start_date):
     # Download data for each sensor.
@@ -110,74 +106,16 @@ def get_data(box):
 def bq_json():
     outfilename = "./data/bq_data.json"
     with open(outfilename, "w") as outfile:
+        outfile.write("[")
         print("opened bq_data file")
         for reading in sensor_readings:
             tmpjson = reading.toJson()
-            print('tmpjson: ', tmpjson)
-            json.dump(tmpjson, outfile)
+           # print('tmpjson: ', tmpjson)
+            outfile.write(tmpjson)
+            outfile.write(",")
 
-
-           # json.dump(reading, outfile)
+        outfile.write("]")
     print("closed json")
-
-
-def bq_json_old():
-
-    # DO this as a list of readings that is turned into JSON
-
-    # generate json file to hold data from all json files
-    # open file to read into
-    # open directory with files to read from
-    # open each file and dump into bq_data file
-    # https://stackoverflow.com/questions/17749484/python-script-to-concatenate-all-the-files-in-the-directory-into-one-file
-    outfilename = "./data/bq_data.json"
-    with open(outfilename, "wb") as outfile:
-        print("opened file")
-        outfile.write("[".encode('ascii'))
-        for filename in glob.glob('./data/big_dump/*.json'):
-            if filename == outfilename:
-                continue
-            with open(filename, 'rb') as readfile:
-                print(filename)
-                shutil.copyfileobj(readfile, outfile)
-            outfile.write("]".encode('ascii'))
-
-    outfilename2 = "./data/bq_data2.json"
-    bq_item = {}
-    bq_info = {}
-    bq_reading = {}
-    new_dict = {}
-
-    # outfile.write("[".encode('ascii'))
-    for filename in glob.glob('./data/big_dump/*.json'):
-        if filename == './data/big_dump/info.json':
-            continue
-        with open(filename, 'rb') as readfile:
-            print(filename)
-            # capture values from file into dict
-            new_dict = json.load(open(filename))
-            # print(new_dict)
-            # print(new_dict.values())
-            for key in new_dict:
-                # print(key, '->', new_dict[key])
-                location_id = new_dict[key].get(
-                    'info', {}).get('location_id')
-                bq_info[key] = location_id
-                bq_info['location_id'] = location_id
-                print('bq_item1: ', bq_item)
-                print('bq_info: ', bq_info)
-                # save values to dict
-                bq_item.update(bq_info)
-                print('bq_item2: ', bq_item)
-
-        # write out dict as JSON to file
-    with open(outfilename2, "w") as outfile:
-        print("opened bq_data file")
-        json.dump(bq_item, outfile)
-        #  f.write("]".encode('ascii'))
-        # f.write(json.dumps(my_json, sort_keys=True, indent=4))
-    print('done generating bq_data')
-
 
 def MrParsy():
     format = "pretty"
@@ -261,7 +199,6 @@ def infolist():
 def tidy_values(our_list):
     # add steps here to build data for bq
     # create item to build each entry
-    bq_item = {}
     bq_info = {}
     bq_reading = {}
 
@@ -303,8 +240,6 @@ def tidy_values(our_list):
         bq_reading = reading
         bq_info.update(bq_reading)
 
-        # bq_item = bq_info
-        # bq_json(bq_item)
         new_dict[location_id]['readings'][timestamp] = {}
         for option in sensorvalues:
             if (option in reading):

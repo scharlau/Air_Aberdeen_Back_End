@@ -10,15 +10,17 @@ https://github.com/AirAberdeen/CTC16-Data-Gathering
     pip install requests
     pip install python-dateutils
 
-
-This is the basic version at the moment.
-This generates a JSON file of readings.
-The file is not as large as previously, so something is not being read. Howevever, it provides a starting point.
-
-The workflow/schedule.yml file 'should' be run each day at 06:05 if the scheduler is set up correctly, and thus refresh the bq_data.json file.
-
-Run get_luftdaten_data.py file to generate JSON file.
+### Run this yourself
+You can run this locally to generate data from other air quality sensors.
+Run get_luftdaten_data.py file to generate JSON file. Modify the settings to grab your sensors.
+Modify the link in the index.html page to point to ./data/bq_data.json to show that data.
 Start flask server and then read JSON from link on landing page.
 
+## This pulls data from air quality sensors daily
+The get_luftdaten_data.py file generates a JSON file of readings. It is run each day, which means the old data is lost as the file is overwritten.
 
+The workflow/schedule.yml file is scheduled to be run each day at 06:05 if the scheduler is set up correctly, and thus refresh the bq_data.json file.
+
+### This data is consumed by another site
+The site at http://echo-air-sensor.herokuapp.com consumes this data and provides visualisations.
 

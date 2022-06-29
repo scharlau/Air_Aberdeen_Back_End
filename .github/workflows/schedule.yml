@@ -36,4 +36,4 @@ jobs:
     - name: Commit and push
       run: |
             YESTERDAY="$(date  --date="yesterday" --rfc-3339=date)"
-            git add -a && git commit -m "Updated $YESTERDAY bq_data.json file" && git push origin main
+            git add -A && git commit -m "Updated $YESTERDAY bq_data.json file" && git push origin main

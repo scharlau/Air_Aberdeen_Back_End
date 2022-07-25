@@ -1,38 +1,38 @@
 {
     "11441": {
         "info": {
-            "P1": "0.0",
-            "P2": "0.0",
-            "humidity": "100.00",
+            "P1": "9.80",
+            "P2": "4.78",
+            "humidity": "0.0",
             "latitude": "57.164",
             "location_id": "11441",
             "longitude": "-2.120",
-            "pressure": "101402.22",
-            "sensor_id": "22550",
-            "sensor_type": "BME280",
-            "temperature": "14.76",
-            "timestamp": "2022-07-22T23:58:51"
+            "pressure": "0.0",
+            "sensor_id": "22549",
+            "sensor_type": "SDS011",
+            "temperature": "0.0",
+            "timestamp": "2022-07-23T23:59:11"
         }
     },
     "11513": {
         "info": {
-            "P1": "0.0",
-            "P2": "0.0",
-            "humidity": "99.90",
+            "P1": "15.93",
+            "P2": "6.10",
+            "humidity": "0.0",
             "latitude": "57.172",
             "location_id": "11513",
             "longitude": "-2.134",
             "pressure": "0.0",
-            "sensor_id": "22692",
-            "sensor_type": "DHT22",
-            "temperature": "13.50",
-            "timestamp": "2022-07-22T23:57:46"
+            "sensor_id": "22691",
+            "sensor_type": "SDS011",
+            "temperature": "0.0",
+            "timestamp": "2022-07-23T23:58:08"
         }
     },
     "11991": {
         "info": {
-            "P1": "0.60",
-            "P2": "0.60",
+            "P1": "3.60",
+            "P2": "2.45",
             "humidity": "0.0",
             "latitude": "57.150",
             "location_id": "11991",
@@ -41,13 +41,13 @@
             "sensor_id": "23628",
             "sensor_type": "SDS011",
             "temperature": "0.0",
-            "timestamp": "2022-07-22T23:58:14"
+            "timestamp": "2022-07-23T23:58:01"
         }
     },
     "12697": {
         "info": {
-            "P1": "1.58",
-            "P2": "0.90",
+            "P1": "11.40",
+            "P2": "5.82",
             "humidity": "0.0",
             "latitude": "57.20352965",
             "location_id": "12697",
@@ -56,13 +56,13 @@
             "sensor_id": "24543",
             "sensor_type": "SDS011",
             "temperature": "0.0",
-            "timestamp": "2022-07-22T23:58:03"
+            "timestamp": "2022-07-23T23:59:20"
         }
     },
     "13447": {
         "info": {
-            "P1": "6.47",
-            "P2": "1.92",
+            "P1": "28.48",
+            "P2": "9.88",
             "humidity": "0.0",
             "latitude": "57.174",
             "location_id": "13447",
@@ -71,13 +71,13 @@
             "sensor_id": "25555",
             "sensor_type": "SDS011",
             "temperature": "0.0",
-            "timestamp": "2022-07-22T23:58:12"
+            "timestamp": "2022-07-23T23:58:35"
         }
     },
     "13887": {
         "info": {
-            "P1": "13.40",
-            "P2": "12.53",
+            "P1": "17.23",
+            "P2": "15.77",
             "humidity": "0.0",
             "latitude": "57.196",
             "location_id": "13887",
@@ -86,13 +86,13 @@
             "sensor_id": "22068",
             "sensor_type": "SDS011",
             "temperature": "0.0",
-            "timestamp": "2022-07-22T23:58:20"
+            "timestamp": "2022-07-23T23:58:39"
         }
     },
     "14810": {
         "info": {
-            "P1": "1.73",
-            "P2": "1.20",
+            "P1": "10.80",
+            "P2": "6.38",
             "humidity": "0.0",
             "latitude": "57.15347387",
             "location_id": "14810",
@@ -101,7 +101,7 @@
             "sensor_id": "27321",
             "sensor_type": "SDS011",
             "temperature": "0.0",
-            "timestamp": "2022-07-22T23:59:27"
+            "timestamp": "2022-07-23T23:59:11"
         }
     },
     "14837": {
@@ -121,23 +121,23 @@
     },
     "14971": {
         "info": {
-            "P1": "0.0",
-            "P2": "0.0",
-            "humidity": "99.90",
+            "P1": "16.65",
+            "P2": "6.95",
+            "humidity": "0.0",
             "latitude": "57.15465533",
             "location_id": "14971",
             "longitude": "-2.11653113",
             "pressure": "0.0",
-            "sensor_id": "27530",
-            "sensor_type": "DHT22",
-            "temperature": "13.70",
-            "timestamp": "2022-07-22T23:58:27"
+            "sensor_id": "27529",
+            "sensor_type": "SDS011",
+            "temperature": "0.0",
+            "timestamp": "2022-07-23T23:59:13"
         }
     },
     "15054": {
         "info": {
-            "P1": "2.92",
-            "P2": "1.50",
+            "P1": "16.08",
+            "P2": "7.43",
             "humidity": "0.0",
             "latitude": "57.152",
             "location_id": "15054",
@@ -146,7 +146,7 @@
             "sensor_id": "27644",
             "sensor_type": "SDS011",
             "temperature": "0.0",
-            "timestamp": "2022-07-22T23:57:52"
+            "timestamp": "2022-07-23T23:58:07"
         }
     },
     "15093": {
@@ -196,8 +196,8 @@
     },
     "27347": {
         "info": {
-            "P1": "2.80",
-            "P2": "1.10",
+            "P1": "17.13",
+            "P2": "7.88",
             "humidity": "0.0",
             "latitude": "57.132",
             "location_id": "27347",
@@ -206,13 +206,13 @@
             "sensor_id": "41657",
             "sensor_type": "SDS011",
             "temperature": "0.0",
-            "timestamp": "2022-07-22T23:59:53"
+            "timestamp": "2022-07-23T23:59:22"
         }
     },
     "27537": {
         "info": {
-            "P1": "4.22",
-            "P2": "1.40",
+            "P1": "17.02",
+            "P2": "7.07",
             "humidity": "0.0",
             "latitude": "57.134",
             "location_id": "27537",
@@ -221,13 +221,13 @@
             "sensor_id": "41861",
             "sensor_type": "SDS011",
             "temperature": "0.0",
-            "timestamp": "2022-07-22T23:57:47"
+            "timestamp": "2022-07-23T23:59:52"
         }
     },
     "31044": {
         "info": {
-            "P1": "2.53",
-            "P2": "1.25",
+            "P1": "13.18",
+            "P2": "5.25",
             "humidity": "0.0",
             "latitude": "57.16387153",
             "location_id": "31044",
@@ -236,28 +236,28 @@
             "sensor_id": "45302",
             "sensor_type": "SDS011",
             "temperature": "0.0",
-            "timestamp": "2022-07-22T23:59:06"
+            "timestamp": "2022-07-23T23:59:06"
         }
     },
     "58535": {
         "info": {
             "P1": "0.0",
             "P2": "0.0",
-            "humidity": "82.93",
+            "humidity": "100.00",
             "latitude": "57.23737987",
             "location_id": "58535",
             "longitude": "-2.26681709",
-            "pressure": "101305.25",
+            "pressure": "99988.03",
             "sensor_id": "70892",
             "sensor_type": "BME280",
-            "temperature": "12.53",
-            "timestamp": "2022-07-22T23:59:03"
+            "temperature": "15.68",
+            "timestamp": "2022-07-23T23:58:03"
         }
     },
     "8655": {
         "info": {
-            "P1": "1.10",
-            "P2": "1.00",
+            "P1": "3.83",
+            "P2": "2.60",
             "humidity": "0.0",
             "latitude": "57.106",
             "location_id": "8655",
@@ -266,7 +266,7 @@
             "sensor_id": "17079",
             "sensor_type": "SDS011",
             "temperature": "0.0",
-            "timestamp": "2022-07-22T23:57:43"
+            "timestamp": "2022-07-23T23:59:03"
         }
     }
 }

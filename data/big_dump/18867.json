@@ -1,17 +1,17 @@
 {
     "18867": {
         "info": {
-            "P1": "4.70",
-            "P2": "4.22",
-            "humidity": "0.0",
+            "P1": "0.0",
+            "P2": "0.0",
+            "humidity": "99.90",
             "latitude": "57.11736800",
             "location_id": "18867",
             "longitude": "-2.19439100",
             "pressure": "0.0",
-            "sensor_id": "32405",
-            "sensor_type": "SDS011",
-            "temperature": "0.0",
-            "timestamp": "2022-08-12T23:59:14"
+            "sensor_id": "32406",
+            "sensor_type": "DHT22",
+            "temperature": "15.10",
+            "timestamp": "2022-08-13T23:58:22"
         },
         "readings": {
             "1655769600": {
@@ -32411,6 +32411,2330 @@
                 "P2": 4.22,
                 "humidity": 99.9,
                 "temperature": 15.6
+            },
+            "2022-08-13T00:01:41": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T00:04:09": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T00:06:36": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T00:09:07": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T00:11:34": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T00:14:20": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T00:16:49": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T00:19:15": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T00:21:41": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T00:24:07": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T00:26:33": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T00:29:00": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T00:31:27": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T00:33:53": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T00:36:21": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T00:38:48": {
+                "humidity": 99.9,
+                "temperature": 15.5
+            },
+            "2022-08-13T00:41:15": {
+                "humidity": 99.9,
+                "temperature": 15.5
+            },
+            "2022-08-13T00:43:59": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T00:46:25": {
+                "humidity": 99.9,
+                "temperature": 15.5
+            },
+            "2022-08-13T00:48:52": {
+                "humidity": 99.9,
+                "temperature": 15.5
+            },
+            "2022-08-13T00:51:25": {
+                "humidity": 99.9,
+                "temperature": 15.5
+            },
+            "2022-08-13T00:53:52": {
+                "humidity": 99.9,
+                "temperature": 15.5
+            },
+            "2022-08-13T00:56:20": {
+                "humidity": 99.9,
+                "temperature": 15.4
+            },
+            "2022-08-13T00:58:50": {
+                "humidity": 99.9,
+                "temperature": 15.4
+            },
+            "2022-08-13T01:01:16": {
+                "humidity": 99.9,
+                "temperature": 15.4
+            },
+            "2022-08-13T01:03:47": {
+                "humidity": 99.9,
+                "temperature": 15.4
+            },
+            "2022-08-13T01:06:13": {
+                "humidity": 99.9,
+                "temperature": 15.3
+            },
+            "2022-08-13T01:08:39": {
+                "humidity": 99.9,
+                "temperature": 15.3
+            },
+            "2022-08-13T01:11:14": {
+                "humidity": 99.9,
+                "temperature": 15.2
+            },
+            "2022-08-13T01:13:42": {
+                "humidity": 99.9,
+                "temperature": 15.2
+            },
+            "2022-08-13T01:16:12": {
+                "humidity": 99.9,
+                "temperature": 15.1
+            },
+            "2022-08-13T01:18:47": {
+                "humidity": 99.9,
+                "temperature": 15.1
+            },
+            "2022-08-13T01:21:17": {
+                "humidity": 99.9,
+                "temperature": 15.1
+            },
+            "2022-08-13T01:23:49": {
+                "humidity": 99.9,
+                "temperature": 15.1
+            },
+            "2022-08-13T01:26:18": {
+                "humidity": 99.9,
+                "temperature": 15.0
+            },
+            "2022-08-13T01:28:45": {
+                "humidity": 99.9,
+                "temperature": 15.0
+            },
+            "2022-08-13T01:31:14": {
+                "humidity": 99.9,
+                "temperature": 15.0
+            },
+            "2022-08-13T01:33:41": {
+                "humidity": 99.9,
+                "temperature": 15.0
+            },
+            "2022-08-13T01:36:10": {
+                "humidity": 99.9,
+                "temperature": 15.0
+            },
+            "2022-08-13T01:38:38": {
+                "humidity": 99.9,
+                "temperature": 15.0
+            },
+            "2022-08-13T01:41:05": {
+                "humidity": 99.9,
+                "temperature": 14.9
+            },
+            "2022-08-13T01:43:36": {
+                "humidity": 99.9,
+                "temperature": 14.9
+            },
+            "2022-08-13T01:46:06": {
+                "humidity": 99.9,
+                "temperature": 14.9
+            },
+            "2022-08-13T01:48:34": {
+                "humidity": 99.9,
+                "temperature": 14.9
+            },
+            "2022-08-13T01:51:23": {
+                "humidity": 99.9,
+                "temperature": 14.9
+            },
+            "2022-08-13T01:54:00": {
+                "humidity": 99.9,
+                "temperature": 14.9
+            },
+            "2022-08-13T01:56:28": {
+                "humidity": 99.9,
+                "temperature": 14.9
+            },
+            "2022-08-13T01:59:00": {
+                "humidity": 99.9,
+                "temperature": 14.9
+            },
+            "2022-08-13T02:01:28": {
+                "humidity": 99.9,
+                "temperature": 14.8
+            },
+            "2022-08-13T02:03:55": {
+                "humidity": 99.9,
+                "temperature": 14.9
+            },
+            "2022-08-13T02:06:29": {
+                "humidity": 99.9,
+                "temperature": 14.8
+            },
+            "2022-08-13T02:08:58": {
+                "humidity": 99.9,
+                "temperature": 14.8
+            },
+            "2022-08-13T02:11:26": {
+                "humidity": 99.9,
+                "temperature": 14.8
+            },
+            "2022-08-13T02:13:54": {
+                "humidity": 99.9,
+                "temperature": 14.8
+            },
+            "2022-08-13T02:16:21": {
+                "humidity": 99.9,
+                "temperature": 14.8
+            },
+            "2022-08-13T02:18:47": {
+                "humidity": 99.9,
+                "temperature": 14.8
+            },
+            "2022-08-13T02:21:15": {
+                "humidity": 99.9,
+                "temperature": 14.8
+            },
+            "2022-08-13T02:23:41": {
+                "humidity": 99.9,
+                "temperature": 14.8
+            },
+            "2022-08-13T02:26:18": {
+                "humidity": 99.9,
+                "temperature": 14.7
+            },
+            "2022-08-13T02:28:44": {
+                "humidity": 99.9,
+                "temperature": 14.7
+            },
+            "2022-08-13T02:31:10": {
+                "humidity": 99.9,
+                "temperature": 14.6
+            },
+            "2022-08-13T02:33:36": {
+                "humidity": 99.9,
+                "temperature": 14.6
+            },
+            "2022-08-13T02:36:05": {
+                "humidity": 99.9,
+                "temperature": 14.6
+            },
+            "2022-08-13T02:38:37": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T02:41:03": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T02:43:47": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T02:46:15": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T02:48:41": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T02:51:08": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T02:53:38": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T02:56:04": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T02:58:35": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T03:01:02": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T03:03:29": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T03:05:57": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T03:08:25": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T03:10:54": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T03:13:23": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T03:15:53": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T03:18:19": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T03:20:45": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T03:23:10": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T03:25:37": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T03:28:04": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T03:30:30": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T03:33:09": {
+                "humidity": 99.9,
+                "temperature": 14.3
+            },
+            "2022-08-13T03:35:36": {
+                "humidity": 99.9,
+                "temperature": 14.3
+            },
+            "2022-08-13T03:38:06": {
+                "humidity": 99.9,
+                "temperature": 14.3
+            },
+            "2022-08-13T03:40:32": {
+                "humidity": 99.9,
+                "temperature": 14.3
+            },
+            "2022-08-13T03:43:18": {
+                "humidity": 99.9,
+                "temperature": 14.3
+            },
+            "2022-08-13T03:45:44": {
+                "humidity": 99.9,
+                "temperature": 14.3
+            },
+            "2022-08-13T03:48:13": {
+                "humidity": 99.9,
+                "temperature": 14.3
+            },
+            "2022-08-13T03:50:43": {
+                "humidity": 99.9,
+                "temperature": 14.3
+            },
+            "2022-08-13T03:53:10": {
+                "humidity": 99.9,
+                "temperature": 14.3
+            },
+            "2022-08-13T03:55:36": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T03:58:08": {
+                "humidity": 99.9,
+                "temperature": 14.3
+            },
+            "2022-08-13T04:00:47": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:03:21": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:05:51": {
+                "humidity": 99.9,
+                "temperature": 14.3
+            },
+            "2022-08-13T04:08:19": {
+                "humidity": 99.9,
+                "temperature": 14.3
+            },
+            "2022-08-13T04:10:47": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:13:15": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:15:43": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:18:10": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:20:41": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T04:23:15": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:25:45": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:28:12": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:30:39": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:33:07": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:35:35": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:38:02": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:40:35": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:43:03": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:45:29": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:48:00": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:50:30": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:52:58": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:55:26": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T04:57:53": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:00:19": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:02:50": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:05:19": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:07:48": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:10:18": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:12:45": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:15:10": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:17:40": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:20:06": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:22:34": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:25:00": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:27:26": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:29:52": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:32:18": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:34:43": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:37:09": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:39:42": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:42:08": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:44:34": {
+                "humidity": 99.9,
+                "temperature": 14.4
+            },
+            "2022-08-13T05:47:00": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T05:49:26": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T05:51:51": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T05:54:17": {
+                "humidity": 99.9,
+                "temperature": 14.5
+            },
+            "2022-08-13T05:56:44": {
+                "humidity": 99.9,
+                "temperature": 14.6
+            },
+            "2022-08-13T05:59:11": {
+                "humidity": 99.9,
+                "temperature": 14.6
+            },
+            "2022-08-13T06:01:57": {
+                "humidity": 99.9,
+                "temperature": 14.6
+            },
+            "2022-08-13T06:04:41": {
+                "humidity": 99.9,
+                "temperature": 14.6
+            },
+            "2022-08-13T06:07:08": {
+                "humidity": 99.9,
+                "temperature": 14.7
+            },
+            "2022-08-13T06:09:43": {
+                "humidity": 99.9,
+                "temperature": 14.7
+            },
+            "2022-08-13T06:12:09": {
+                "humidity": 99.9,
+                "temperature": 14.7
+            },
+            "2022-08-13T06:14:34": {
+                "humidity": 99.9,
+                "temperature": 14.6
+            },
+            "2022-08-13T06:17:02": {
+                "humidity": 99.9,
+                "temperature": 14.7
+            },
+            "2022-08-13T06:19:29": {
+                "humidity": 99.9,
+                "temperature": 14.7
+            },
+            "2022-08-13T06:22:00": {
+                "humidity": 99.9,
+                "temperature": 14.8
+            },
+            "2022-08-13T06:24:29": {
+                "humidity": 99.9,
+                "temperature": 14.8
+            },
+            "2022-08-13T06:26:54": {
+                "humidity": 99.9,
+                "temperature": 14.7
+            },
+            "2022-08-13T06:29:25": {
+                "humidity": 99.9,
+                "temperature": 14.7
+            },
+            "2022-08-13T06:31:55": {
+                "humidity": 99.9,
+                "temperature": 14.7
+            },
+            "2022-08-13T06:34:21": {
+                "humidity": 99.9,
+                "temperature": 14.7
+            },
+            "2022-08-13T06:36:48": {
+                "humidity": 99.9,
+                "temperature": 14.8
+            },
+            "2022-08-13T06:39:15": {
+                "humidity": 99.9,
+                "temperature": 14.9
+            },
+            "2022-08-13T06:41:42": {
+                "humidity": 99.9,
+                "temperature": 15.0
+            },
+            "2022-08-13T06:44:10": {
+                "humidity": 99.9,
+                "temperature": 15.0
+            },
+            "2022-08-13T06:46:37": {
+                "humidity": 99.9,
+                "temperature": 15.0
+            },
+            "2022-08-13T06:49:03": {
+                "humidity": 99.9,
+                "temperature": 15.0
+            },
+            "2022-08-13T06:51:30": {
+                "humidity": 99.9,
+                "temperature": 15.1
+            },
+            "2022-08-13T06:53:56": {
+                "humidity": 99.9,
+                "temperature": 15.1
+            },
+            "2022-08-13T06:56:25": {
+                "humidity": 99.9,
+                "temperature": 15.2
+            },
+            "2022-08-13T06:58:54": {
+                "humidity": 99.9,
+                "temperature": 15.3
+            },
+            "2022-08-13T07:01:24": {
+                "humidity": 99.9,
+                "temperature": 15.3
+            },
+            "2022-08-13T07:03:51": {
+                "humidity": 99.9,
+                "temperature": 15.4
+            },
+            "2022-08-13T07:06:20": {
+                "humidity": 99.9,
+                "temperature": 15.4
+            },
+            "2022-08-13T07:08:49": {
+                "humidity": 99.9,
+                "temperature": 15.4
+            },
+            "2022-08-13T07:11:16": {
+                "humidity": 99.9,
+                "temperature": 15.5
+            },
+            "2022-08-13T07:13:51": {
+                "humidity": 99.9,
+                "temperature": 15.5
+            },
+            "2022-08-13T07:16:19": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T07:18:47": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T07:21:17": {
+                "humidity": 99.9,
+                "temperature": 15.7
+            },
+            "2022-08-13T07:23:47": {
+                "humidity": 99.9,
+                "temperature": 15.7
+            },
+            "2022-08-13T07:26:16": {
+                "humidity": 99.9,
+                "temperature": 15.8
+            },
+            "2022-08-13T07:28:46": {
+                "humidity": 99.9,
+                "temperature": 15.9
+            },
+            "2022-08-13T07:31:13": {
+                "humidity": 99.9,
+                "temperature": 15.9
+            },
+            "2022-08-13T07:33:45": {
+                "humidity": 99.9,
+                "temperature": 15.9
+            },
+            "2022-08-13T07:36:15": {
+                "humidity": 99.9,
+                "temperature": 16.0
+            },
+            "2022-08-13T07:38:41": {
+                "humidity": 99.9,
+                "temperature": 16.0
+            },
+            "2022-08-13T07:41:08": {
+                "humidity": 99.9,
+                "temperature": 16.2
+            },
+            "2022-08-13T07:43:36": {
+                "humidity": 99.9,
+                "temperature": 16.2
+            },
+            "2022-08-13T07:46:11": {
+                "humidity": 99.9,
+                "temperature": 16.3
+            },
+            "2022-08-13T07:48:40": {
+                "humidity": 99.9,
+                "temperature": 16.4
+            },
+            "2022-08-13T07:51:08": {
+                "humidity": 99.9,
+                "temperature": 16.5
+            },
+            "2022-08-13T07:53:45": {
+                "humidity": 99.9,
+                "temperature": 16.5
+            },
+            "2022-08-13T07:56:12": {
+                "humidity": 99.9,
+                "temperature": 16.6
+            },
+            "2022-08-13T07:58:42": {
+                "humidity": 99.9,
+                "temperature": 16.6
+            },
+            "2022-08-13T08:01:08": {
+                "humidity": 99.9,
+                "temperature": 16.8
+            },
+            "2022-08-13T08:03:37": {
+                "humidity": 99.9,
+                "temperature": 16.9
+            },
+            "2022-08-13T08:06:09": {
+                "humidity": 99.9,
+                "temperature": 17.0
+            },
+            "2022-08-13T08:08:36": {
+                "humidity": 99.9,
+                "temperature": 17.1
+            },
+            "2022-08-13T08:11:08": {
+                "humidity": 99.9,
+                "temperature": 17.3
+            },
+            "2022-08-13T08:13:35": {
+                "humidity": 99.9,
+                "temperature": 17.5
+            },
+            "2022-08-13T08:16:02": {
+                "humidity": 99.9,
+                "temperature": 17.5
+            },
+            "2022-08-13T08:18:29": {
+                "humidity": 99.9,
+                "temperature": 17.6
+            },
+            "2022-08-13T08:21:09": {
+                "humidity": 99.9,
+                "temperature": 17.6
+            },
+            "2022-08-13T08:23:35": {
+                "humidity": 99.9,
+                "temperature": 17.7
+            },
+            "2022-08-13T08:26:03": {
+                "humidity": 99.9,
+                "temperature": 17.9
+            },
+            "2022-08-13T08:28:33": {
+                "humidity": 99.9,
+                "temperature": 18.1
+            },
+            "2022-08-13T08:31:02": {
+                "humidity": 99.9,
+                "temperature": 17.9
+            },
+            "2022-08-13T08:33:33": {
+                "humidity": 99.9,
+                "temperature": 18.0
+            },
+            "2022-08-13T08:36:02": {
+                "humidity": 99.9,
+                "temperature": 18.2
+            },
+            "2022-08-13T08:38:28": {
+                "humidity": 99.9,
+                "temperature": 18.3
+            },
+            "2022-08-13T08:41:14": {
+                "humidity": 99.9,
+                "temperature": 18.4
+            },
+            "2022-08-13T08:44:00": {
+                "humidity": 99.9,
+                "temperature": 18.5
+            },
+            "2022-08-13T08:46:26": {
+                "humidity": 99.9,
+                "temperature": 18.6
+            },
+            "2022-08-13T08:49:02": {
+                "humidity": 99.9,
+                "temperature": 18.8
+            },
+            "2022-08-13T08:51:31": {
+                "humidity": 99.9,
+                "temperature": 19.0
+            },
+            "2022-08-13T08:53:59": {
+                "humidity": 99.9,
+                "temperature": 19.1
+            },
+            "2022-08-13T08:56:25": {
+                "humidity": 99.9,
+                "temperature": 19.2
+            },
+            "2022-08-13T08:58:52": {
+                "humidity": 99.9,
+                "temperature": 19.3
+            },
+            "2022-08-13T09:01:20": {
+                "humidity": 99.9,
+                "temperature": 19.4
+            },
+            "2022-08-13T09:03:50": {
+                "humidity": 99.9,
+                "temperature": 19.5
+            },
+            "2022-08-13T09:06:18": {
+                "humidity": 99.9,
+                "temperature": 19.6
+            },
+            "2022-08-13T09:08:44": {
+                "humidity": 99.9,
+                "temperature": 19.7
+            },
+            "2022-08-13T09:11:14": {
+                "humidity": 99.9,
+                "temperature": 19.7
+            },
+            "2022-08-13T09:13:44": {
+                "humidity": 99.9,
+                "temperature": 19.8
+            },
+            "2022-08-13T09:16:13": {
+                "humidity": 99.9,
+                "temperature": 19.8
+            },
+            "2022-08-13T09:18:39": {
+                "humidity": 99.9,
+                "temperature": 19.8
+            },
+            "2022-08-13T09:21:05": {
+                "humidity": 99.9,
+                "temperature": 19.9
+            },
+            "2022-08-13T09:23:32": {
+                "humidity": 99.9,
+                "temperature": 20.0
+            },
+            "2022-08-13T09:25:59": {
+                "humidity": 99.9,
+                "temperature": 20.1
+            },
+            "2022-08-13T09:28:28": {
+                "humidity": 99.9,
+                "temperature": 20.1
+            },
+            "2022-08-13T09:30:55": {
+                "humidity": 99.9,
+                "temperature": 20.3
+            },
+            "2022-08-13T09:33:22": {
+                "humidity": 99.9,
+                "temperature": 20.4
+            },
+            "2022-08-13T09:35:49": {
+                "humidity": 99.9,
+                "temperature": 20.5
+            },
+            "2022-08-13T09:38:17": {
+                "humidity": 99.9,
+                "temperature": 20.6
+            },
+            "2022-08-13T09:41:11": {
+                "humidity": 99.9,
+                "temperature": 20.6
+            },
+            "2022-08-13T09:43:41": {
+                "humidity": 99.9,
+                "temperature": 20.7
+            },
+            "2022-08-13T09:46:11": {
+                "humidity": 99.9,
+                "temperature": 20.7
+            },
+            "2022-08-13T09:48:37": {
+                "humidity": 99.9,
+                "temperature": 20.7
+            },
+            "2022-08-13T09:51:05": {
+                "humidity": 99.9,
+                "temperature": 20.6
+            },
+            "2022-08-13T09:53:30": {
+                "humidity": 99.9,
+                "temperature": 20.7
+            },
+            "2022-08-13T09:55:56": {
+                "humidity": 99.9,
+                "temperature": 20.8
+            },
+            "2022-08-13T09:58:22": {
+                "humidity": 99.9,
+                "temperature": 20.9
+            },
+            "2022-08-13T10:00:51": {
+                "humidity": 99.9,
+                "temperature": 21.0
+            },
+            "2022-08-13T10:03:18": {
+                "humidity": 99.9,
+                "temperature": 21.1
+            },
+            "2022-08-13T10:05:44": {
+                "humidity": 99.9,
+                "temperature": 21.3
+            },
+            "2022-08-13T10:08:16": {
+                "humidity": 99.9,
+                "temperature": 21.3
+            },
+            "2022-08-13T10:10:43": {
+                "humidity": 99.9,
+                "temperature": 21.3
+            },
+            "2022-08-13T10:13:10": {
+                "humidity": 99.9,
+                "temperature": 21.1
+            },
+            "2022-08-13T10:15:36": {
+                "humidity": 99.9,
+                "temperature": 21.2
+            },
+            "2022-08-13T10:18:03": {
+                "humidity": 99.9,
+                "temperature": 21.3
+            },
+            "2022-08-13T10:20:31": {
+                "humidity": 99.9,
+                "temperature": 21.3
+            },
+            "2022-08-13T10:22:59": {
+                "humidity": 99.9,
+                "temperature": 21.4
+            },
+            "2022-08-13T10:25:27": {
+                "humidity": 99.9,
+                "temperature": 21.4
+            },
+            "2022-08-13T10:27:54": {
+                "humidity": 99.9,
+                "temperature": 21.4
+            },
+            "2022-08-13T10:30:25": {
+                "humidity": 99.9,
+                "temperature": 21.4
+            },
+            "2022-08-13T10:32:53": {
+                "humidity": 99.9,
+                "temperature": 21.4
+            },
+            "2022-08-13T10:35:22": {
+                "humidity": 99.9,
+                "temperature": 21.4
+            },
+            "2022-08-13T10:37:50": {
+                "humidity": 99.9,
+                "temperature": 21.6
+            },
+            "2022-08-13T10:40:23": {
+                "humidity": 99.9,
+                "temperature": 21.7
+            },
+            "2022-08-13T10:42:49": {
+                "humidity": 99.9,
+                "temperature": 21.7
+            },
+            "2022-08-13T10:45:18": {
+                "humidity": 99.9,
+                "temperature": 21.8
+            },
+            "2022-08-13T10:47:52": {
+                "humidity": 99.9,
+                "temperature": 21.9
+            },
+            "2022-08-13T10:50:20": {
+                "humidity": 99.9,
+                "temperature": 21.9
+            },
+            "2022-08-13T10:52:47": {
+                "humidity": 99.9,
+                "temperature": 21.9
+            },
+            "2022-08-13T10:55:14": {
+                "humidity": 99.9,
+                "temperature": 22.0
+            },
+            "2022-08-13T10:57:42": {
+                "humidity": 99.9,
+                "temperature": 22.0
+            },
+            "2022-08-13T11:00:10": {
+                "humidity": 99.9,
+                "temperature": 22.1
+            },
+            "2022-08-13T11:02:37": {
+                "humidity": 99.9,
+                "temperature": 22.1
+            },
+            "2022-08-13T11:05:08": {
+                "humidity": 99.9,
+                "temperature": 22.2
+            },
+            "2022-08-13T11:07:35": {
+                "humidity": 99.9,
+                "temperature": 22.2
+            },
+            "2022-08-13T11:10:04": {
+                "humidity": 99.9,
+                "temperature": 22.2
+            },
+            "2022-08-13T11:12:30": {
+                "humidity": 99.9,
+                "temperature": 22.4
+            },
+            "2022-08-13T11:14:55": {
+                "humidity": 99.9,
+                "temperature": 22.4
+            },
+            "2022-08-13T11:17:22": {
+                "humidity": 99.9,
+                "temperature": 22.5
+            },
+            "2022-08-13T11:19:48": {
+                "humidity": 99.9,
+                "temperature": 22.5
+            },
+            "2022-08-13T11:22:16": {
+                "humidity": 99.9,
+                "temperature": 22.5
+            },
+            "2022-08-13T11:24:42": {
+                "humidity": 99.9,
+                "temperature": 22.5
+            },
+            "2022-08-13T11:27:08": {
+                "humidity": 99.9,
+                "temperature": 22.6
+            },
+            "2022-08-13T11:29:34": {
+                "humidity": 99.9,
+                "temperature": 22.7
+            },
+            "2022-08-13T11:31:59": {
+                "humidity": 99.9,
+                "temperature": 22.7
+            },
+            "2022-08-13T11:34:25": {
+                "humidity": 99.9,
+                "temperature": 22.7
+            },
+            "2022-08-13T11:36:51": {
+                "humidity": 99.9,
+                "temperature": 22.8
+            },
+            "2022-08-13T11:39:18": {
+                "humidity": 99.9,
+                "temperature": 22.8
+            },
+            "2022-08-13T11:41:43": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T11:44:09": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T11:46:35": {
+                "humidity": 99.9,
+                "temperature": 22.8
+            },
+            "2022-08-13T11:49:01": {
+                "humidity": 99.9,
+                "temperature": 22.8
+            },
+            "2022-08-13T11:51:27": {
+                "humidity": 99.9,
+                "temperature": 22.7
+            },
+            "2022-08-13T11:53:53": {
+                "humidity": 99.9,
+                "temperature": 22.7
+            },
+            "2022-08-13T11:56:18": {
+                "humidity": 99.9,
+                "temperature": 22.7
+            },
+            "2022-08-13T11:58:44": {
+                "humidity": 99.9,
+                "temperature": 22.8
+            },
+            "2022-08-13T12:01:10": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T12:03:38": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T12:06:06": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T12:08:32": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T12:10:58": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T12:13:24": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T12:15:50": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T12:18:17": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T12:20:43": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T12:23:09": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T12:25:35": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T12:28:25": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T12:30:56": {
+                "humidity": 99.9,
+                "temperature": 23.1
+            },
+            "2022-08-13T12:33:23": {
+                "humidity": 99.9,
+                "temperature": 23.1
+            },
+            "2022-08-13T12:35:50": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T12:38:16": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T12:40:44": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T12:43:10": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T12:45:37": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T12:48:06": {
+                "humidity": 99.9,
+                "temperature": 22.8
+            },
+            "2022-08-13T12:50:32": {
+                "humidity": 99.9,
+                "temperature": 22.7
+            },
+            "2022-08-13T12:52:58": {
+                "humidity": 99.9,
+                "temperature": 22.7
+            },
+            "2022-08-13T12:55:24": {
+                "humidity": 99.9,
+                "temperature": 22.7
+            },
+            "2022-08-13T12:57:50": {
+                "humidity": 99.9,
+                "temperature": 22.6
+            },
+            "2022-08-13T13:00:16": {
+                "humidity": 99.9,
+                "temperature": 22.6
+            },
+            "2022-08-13T13:02:42": {
+                "humidity": 99.9,
+                "temperature": 22.6
+            },
+            "2022-08-13T13:05:08": {
+                "humidity": 99.9,
+                "temperature": 22.7
+            },
+            "2022-08-13T13:07:34": {
+                "humidity": 99.9,
+                "temperature": 22.8
+            },
+            "2022-08-13T13:10:00": {
+                "humidity": 99.9,
+                "temperature": 22.8
+            },
+            "2022-08-13T13:12:27": {
+                "humidity": 99.9,
+                "temperature": 22.8
+            },
+            "2022-08-13T13:14:52": {
+                "humidity": 99.9,
+                "temperature": 22.7
+            },
+            "2022-08-13T13:17:18": {
+                "humidity": 99.9,
+                "temperature": 22.7
+            },
+            "2022-08-13T13:19:45": {
+                "humidity": 99.9,
+                "temperature": 22.6
+            },
+            "2022-08-13T13:22:10": {
+                "humidity": 99.9,
+                "temperature": 22.6
+            },
+            "2022-08-13T13:24:36": {
+                "humidity": 99.9,
+                "temperature": 22.6
+            },
+            "2022-08-13T13:27:04": {
+                "humidity": 99.9,
+                "temperature": 22.7
+            },
+            "2022-08-13T13:29:31": {
+                "humidity": 99.9,
+                "temperature": 22.6
+            },
+            "2022-08-13T13:31:57": {
+                "humidity": 99.9,
+                "temperature": 22.6
+            },
+            "2022-08-13T13:34:28": {
+                "humidity": 99.9,
+                "temperature": 22.5
+            },
+            "2022-08-13T13:36:55": {
+                "humidity": 99.9,
+                "temperature": 22.5
+            },
+            "2022-08-13T13:39:22": {
+                "humidity": 99.9,
+                "temperature": 22.5
+            },
+            "2022-08-13T13:41:49": {
+                "humidity": 99.9,
+                "temperature": 22.5
+            },
+            "2022-08-13T13:44:15": {
+                "humidity": 99.9,
+                "temperature": 22.5
+            },
+            "2022-08-13T13:46:41": {
+                "humidity": 99.9,
+                "temperature": 22.5
+            },
+            "2022-08-13T13:49:06": {
+                "humidity": 99.9,
+                "temperature": 22.5
+            },
+            "2022-08-13T13:51:32": {
+                "humidity": 99.9,
+                "temperature": 22.5
+            },
+            "2022-08-13T13:53:58": {
+                "humidity": 99.9,
+                "temperature": 22.5
+            },
+            "2022-08-13T13:56:24": {
+                "humidity": 99.9,
+                "temperature": 22.5
+            },
+            "2022-08-13T13:58:55": {
+                "humidity": 99.9,
+                "temperature": 22.5
+            },
+            "2022-08-13T14:01:21": {
+                "humidity": 99.9,
+                "temperature": 22.5
+            },
+            "2022-08-13T14:03:47": {
+                "humidity": 99.9,
+                "temperature": 22.6
+            },
+            "2022-08-13T14:06:20": {
+                "humidity": 99.9,
+                "temperature": 22.6
+            },
+            "2022-08-13T14:08:46": {
+                "humidity": 99.9,
+                "temperature": 22.7
+            },
+            "2022-08-13T14:11:15": {
+                "humidity": 99.9,
+                "temperature": 22.8
+            },
+            "2022-08-13T14:13:41": {
+                "humidity": 99.9,
+                "temperature": 22.8
+            },
+            "2022-08-13T14:16:06": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T14:18:36": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T14:21:04": {
+                "humidity": 99.9,
+                "temperature": 22.8
+            },
+            "2022-08-13T14:23:30": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T14:25:56": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T14:28:25": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T14:30:51": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T14:33:19": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T14:35:45": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T14:38:14": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T14:40:41": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T14:43:07": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T14:45:34": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T14:48:19": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T14:50:48": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T14:53:15": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T14:55:42": {
+                "humidity": 99.9,
+                "temperature": 23.1
+            },
+            "2022-08-13T14:58:10": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T15:00:38": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T15:03:07": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T15:05:34": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T15:08:01": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T15:10:28": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T15:12:56": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T15:15:24": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T15:17:52": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T15:20:20": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T15:22:48": {
+                "humidity": 99.9,
+                "temperature": 23.0
+            },
+            "2022-08-13T15:25:16": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T15:27:50": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T15:30:37": {
+                "humidity": 99.9,
+                "temperature": 22.9
+            },
+            "2022-08-13T15:33:08": {
+                "humidity": 99.9,
+                "temperature": 22.8
+            },
+            "2022-08-13T15:35:42": {
+                "humidity": 99.9,
+                "temperature": 22.7
+            },
+            "2022-08-13T15:38:21": {
+                "humidity": 99.9,
+                "temperature": 22.6
+            },
+            "2022-08-13T15:40:59": {
+                "humidity": 99.9,
+                "temperature": 22.5
+            },
+            "2022-08-13T15:43:27": {
+                "humidity": 99.9,
+                "temperature": 22.3
+            },
+            "2022-08-13T15:45:56": {
+                "humidity": 99.9,
+                "temperature": 22.2
+            },
+            "2022-08-13T15:48:24": {
+                "humidity": 99.9,
+                "temperature": 22.1
+            },
+            "2022-08-13T15:50:56": {
+                "humidity": 99.9,
+                "temperature": 22.0
+            },
+            "2022-08-13T15:53:27": {
+                "humidity": 99.9,
+                "temperature": 21.9
+            },
+            "2022-08-13T15:55:53": {
+                "humidity": 99.9,
+                "temperature": 21.8
+            },
+            "2022-08-13T15:58:20": {
+                "humidity": 99.9,
+                "temperature": 21.6
+            },
+            "2022-08-13T16:00:49": {
+                "humidity": 99.9,
+                "temperature": 21.6
+            },
+            "2022-08-13T16:03:17": {
+                "humidity": 99.9,
+                "temperature": 21.4
+            },
+            "2022-08-13T16:05:46": {
+                "humidity": 99.9,
+                "temperature": 21.3
+            },
+            "2022-08-13T16:08:13": {
+                "humidity": 99.9,
+                "temperature": 21.2
+            },
+            "2022-08-13T16:10:40": {
+                "humidity": 99.9,
+                "temperature": 21.0
+            },
+            "2022-08-13T16:13:12": {
+                "humidity": 99.9,
+                "temperature": 20.9
+            },
+            "2022-08-13T16:15:40": {
+                "humidity": 99.9,
+                "temperature": 20.9
+            },
+            "2022-08-13T16:18:07": {
+                "humidity": 99.9,
+                "temperature": 20.9
+            },
+            "2022-08-13T16:20:38": {
+                "humidity": 99.9,
+                "temperature": 20.9
+            },
+            "2022-08-13T16:23:05": {
+                "humidity": 99.9,
+                "temperature": 21.0
+            },
+            "2022-08-13T16:25:33": {
+                "humidity": 99.9,
+                "temperature": 21.1
+            },
+            "2022-08-13T16:28:02": {
+                "humidity": 99.9,
+                "temperature": 21.1
+            },
+            "2022-08-13T16:30:33": {
+                "humidity": 99.9,
+                "temperature": 21.2
+            },
+            "2022-08-13T16:33:02": {
+                "humidity": 99.9,
+                "temperature": 21.2
+            },
+            "2022-08-13T16:35:29": {
+                "humidity": 99.9,
+                "temperature": 21.3
+            },
+            "2022-08-13T16:37:57": {
+                "humidity": 99.9,
+                "temperature": 21.4
+            },
+            "2022-08-13T16:40:29": {
+                "humidity": 99.9,
+                "temperature": 21.4
+            },
+            "2022-08-13T16:42:56": {
+                "humidity": 99.9,
+                "temperature": 21.5
+            },
+            "2022-08-13T16:45:25": {
+                "humidity": 99.9,
+                "temperature": 21.5
+            },
+            "2022-08-13T16:47:53": {
+                "humidity": 99.9,
+                "temperature": 21.5
+            },
+            "2022-08-13T16:50:20": {
+                "humidity": 99.9,
+                "temperature": 21.6
+            },
+            "2022-08-13T16:52:47": {
+                "humidity": 99.9,
+                "temperature": 21.6
+            },
+            "2022-08-13T16:55:14": {
+                "humidity": 99.9,
+                "temperature": 21.8
+            },
+            "2022-08-13T16:57:44": {
+                "humidity": 99.9,
+                "temperature": 21.9
+            },
+            "2022-08-13T17:00:17": {
+                "humidity": 99.9,
+                "temperature": 22.0
+            },
+            "2022-08-13T17:02:50": {
+                "humidity": 99.9,
+                "temperature": 21.9
+            },
+            "2022-08-13T17:05:35": {
+                "humidity": 99.9,
+                "temperature": 22.0
+            },
+            "2022-08-13T17:08:19": {
+                "humidity": 99.9,
+                "temperature": 22.0
+            },
+            "2022-08-13T17:11:05": {
+                "humidity": 99.9,
+                "temperature": 22.0
+            },
+            "2022-08-13T17:13:31": {
+                "humidity": 99.9,
+                "temperature": 22.0
+            },
+            "2022-08-13T17:16:03": {
+                "humidity": 99.9,
+                "temperature": 22.0
+            },
+            "2022-08-13T17:18:29": {
+                "humidity": 99.9,
+                "temperature": 22.0
+            },
+            "2022-08-13T17:20:57": {
+                "humidity": 99.9,
+                "temperature": 21.9
+            },
+            "2022-08-13T17:23:24": {
+                "humidity": 99.9,
+                "temperature": 21.9
+            },
+            "2022-08-13T17:25:54": {
+                "humidity": 99.9,
+                "temperature": 21.9
+            },
+            "2022-08-13T17:28:21": {
+                "humidity": 99.9,
+                "temperature": 21.8
+            },
+            "2022-08-13T17:30:52": {
+                "humidity": 99.9,
+                "temperature": 21.8
+            },
+            "2022-08-13T17:33:18": {
+                "humidity": 99.9,
+                "temperature": 21.8
+            },
+            "2022-08-13T17:35:47": {
+                "humidity": 99.9,
+                "temperature": 21.7
+            },
+            "2022-08-13T17:38:12": {
+                "humidity": 99.9,
+                "temperature": 21.6
+            },
+            "2022-08-13T17:40:38": {
+                "humidity": 99.9,
+                "temperature": 21.5
+            },
+            "2022-08-13T17:43:06": {
+                "humidity": 99.9,
+                "temperature": 21.4
+            },
+            "2022-08-13T17:45:32": {
+                "humidity": 99.9,
+                "temperature": 21.4
+            },
+            "2022-08-13T17:47:59": {
+                "humidity": 99.9,
+                "temperature": 21.3
+            },
+            "2022-08-13T17:50:27": {
+                "humidity": 99.9,
+                "temperature": 21.2
+            },
+            "2022-08-13T17:52:52": {
+                "humidity": 99.9,
+                "temperature": 21.1
+            },
+            "2022-08-13T17:55:18": {
+                "humidity": 99.9,
+                "temperature": 21.1
+            },
+            "2022-08-13T17:57:45": {
+                "humidity": 99.9,
+                "temperature": 21.0
+            },
+            "2022-08-13T18:00:12": {
+                "humidity": 99.9,
+                "temperature": 21.0
+            },
+            "2022-08-13T18:02:38": {
+                "humidity": 99.9,
+                "temperature": 21.0
+            },
+            "2022-08-13T18:05:04": {
+                "humidity": 99.9,
+                "temperature": 21.0
+            },
+            "2022-08-13T18:07:30": {
+                "humidity": 99.9,
+                "temperature": 21.0
+            },
+            "2022-08-13T18:09:56": {
+                "humidity": 99.9,
+                "temperature": 21.0
+            },
+            "2022-08-13T18:12:22": {
+                "humidity": 99.9,
+                "temperature": 21.0
+            },
+            "2022-08-13T18:14:48": {
+                "humidity": 99.9,
+                "temperature": 21.0
+            },
+            "2022-08-13T18:17:13": {
+                "humidity": 99.9,
+                "temperature": 20.9
+            },
+            "2022-08-13T18:19:39": {
+                "humidity": 99.9,
+                "temperature": 20.9
+            },
+            "2022-08-13T18:22:05": {
+                "humidity": 99.9,
+                "temperature": 20.8
+            },
+            "2022-08-13T18:24:31": {
+                "humidity": 99.9,
+                "temperature": 20.8
+            },
+            "2022-08-13T18:26:57": {
+                "humidity": 99.9,
+                "temperature": 20.8
+            },
+            "2022-08-13T18:29:24": {
+                "humidity": 99.9,
+                "temperature": 20.8
+            },
+            "2022-08-13T18:31:53": {
+                "humidity": 99.9,
+                "temperature": 20.8
+            },
+            "2022-08-13T18:34:37": {
+                "humidity": 99.9,
+                "temperature": 20.8
+            },
+            "2022-08-13T18:37:03": {
+                "humidity": 99.9,
+                "temperature": 20.8
+            },
+            "2022-08-13T18:39:29": {
+                "humidity": 99.9,
+                "temperature": 20.8
+            },
+            "2022-08-13T18:41:54": {
+                "humidity": 99.9,
+                "temperature": 20.7
+            },
+            "2022-08-13T18:44:20": {
+                "humidity": 99.9,
+                "temperature": 20.7
+            },
+            "2022-08-13T18:46:46": {
+                "humidity": 99.9,
+                "temperature": 20.6
+            },
+            "2022-08-13T18:49:12": {
+                "humidity": 99.9,
+                "temperature": 20.5
+            },
+            "2022-08-13T18:51:38": {
+                "humidity": 99.9,
+                "temperature": 20.5
+            },
+            "2022-08-13T18:54:04": {
+                "humidity": 99.9,
+                "temperature": 20.3
+            },
+            "2022-08-13T18:56:30": {
+                "humidity": 99.9,
+                "temperature": 20.2
+            },
+            "2022-08-13T18:58:56": {
+                "humidity": 99.9,
+                "temperature": 20.1
+            },
+            "2022-08-13T19:01:22": {
+                "humidity": 99.9,
+                "temperature": 20.0
+            },
+            "2022-08-13T19:03:48": {
+                "humidity": 99.9,
+                "temperature": 19.9
+            },
+            "2022-08-13T19:06:14": {
+                "humidity": 99.9,
+                "temperature": 19.7
+            },
+            "2022-08-13T19:08:40": {
+                "humidity": 99.9,
+                "temperature": 19.5
+            },
+            "2022-08-13T19:11:07": {
+                "humidity": 99.9,
+                "temperature": 19.4
+            },
+            "2022-08-13T19:13:33": {
+                "humidity": 99.9,
+                "temperature": 19.3
+            },
+            "2022-08-13T19:15:59": {
+                "humidity": 99.9,
+                "temperature": 19.2
+            },
+            "2022-08-13T19:18:28": {
+                "humidity": 99.9,
+                "temperature": 19.1
+            },
+            "2022-08-13T19:20:54": {
+                "humidity": 99.9,
+                "temperature": 19.0
+            },
+            "2022-08-13T19:23:20": {
+                "humidity": 99.9,
+                "temperature": 18.9
+            },
+            "2022-08-13T19:25:47": {
+                "humidity": 99.9,
+                "temperature": 18.8
+            },
+            "2022-08-13T19:28:13": {
+                "humidity": 99.9,
+                "temperature": 18.7
+            },
+            "2022-08-13T19:30:39": {
+                "humidity": 99.9,
+                "temperature": 18.6
+            },
+            "2022-08-13T19:33:05": {
+                "humidity": 99.9,
+                "temperature": 18.5
+            },
+            "2022-08-13T19:35:31": {
+                "humidity": 99.9,
+                "temperature": 18.5
+            },
+            "2022-08-13T19:38:00": {
+                "humidity": 99.9,
+                "temperature": 18.4
+            },
+            "2022-08-13T19:40:29": {
+                "humidity": 99.9,
+                "temperature": 18.4
+            },
+            "2022-08-13T19:42:56": {
+                "humidity": 99.9,
+                "temperature": 18.3
+            },
+            "2022-08-13T19:45:26": {
+                "humidity": 99.9,
+                "temperature": 18.2
+            },
+            "2022-08-13T19:47:52": {
+                "humidity": 99.9,
+                "temperature": 18.2
+            },
+            "2022-08-13T19:50:20": {
+                "humidity": 99.9,
+                "temperature": 18.1
+            },
+            "2022-08-13T19:52:47": {
+                "humidity": 99.9,
+                "temperature": 18.1
+            },
+            "2022-08-13T19:55:15": {
+                "humidity": 99.9,
+                "temperature": 18.1
+            },
+            "2022-08-13T19:57:42": {
+                "humidity": 99.9,
+                "temperature": 18.0
+            },
+            "2022-08-13T20:00:16": {
+                "humidity": 99.9,
+                "temperature": 17.9
+            },
+            "2022-08-13T20:02:49": {
+                "humidity": 99.9,
+                "temperature": 17.9
+            },
+            "2022-08-13T20:05:18": {
+                "humidity": 99.9,
+                "temperature": 17.8
+            },
+            "2022-08-13T20:07:47": {
+                "humidity": 99.9,
+                "temperature": 17.8
+            },
+            "2022-08-13T20:10:14": {
+                "humidity": 99.9,
+                "temperature": 17.7
+            },
+            "2022-08-13T20:12:41": {
+                "humidity": 99.9,
+                "temperature": 17.7
+            },
+            "2022-08-13T20:15:10": {
+                "humidity": 99.9,
+                "temperature": 17.6
+            },
+            "2022-08-13T20:17:36": {
+                "humidity": 99.9,
+                "temperature": 17.6
+            },
+            "2022-08-13T20:20:14": {
+                "humidity": 99.9,
+                "temperature": 17.6
+            },
+            "2022-08-13T20:22:42": {
+                "humidity": 99.9,
+                "temperature": 17.5
+            },
+            "2022-08-13T20:25:09": {
+                "humidity": 99.9,
+                "temperature": 17.5
+            },
+            "2022-08-13T20:27:37": {
+                "humidity": 99.9,
+                "temperature": 17.5
+            },
+            "2022-08-13T20:30:07": {
+                "humidity": 99.9,
+                "temperature": 17.5
+            },
+            "2022-08-13T20:32:33": {
+                "humidity": 99.9,
+                "temperature": 17.5
+            },
+            "2022-08-13T20:35:05": {
+                "humidity": 99.9,
+                "temperature": 17.4
+            },
+            "2022-08-13T20:37:31": {
+                "humidity": 99.9,
+                "temperature": 17.4
+            },
+            "2022-08-13T20:39:57": {
+                "humidity": 99.9,
+                "temperature": 17.3
+            },
+            "2022-08-13T20:42:24": {
+                "humidity": 99.9,
+                "temperature": 17.3
+            },
+            "2022-08-13T20:44:50": {
+                "humidity": 99.9,
+                "temperature": 17.3
+            },
+            "2022-08-13T20:47:17": {
+                "humidity": 99.9,
+                "temperature": 17.3
+            },
+            "2022-08-13T20:49:44": {
+                "humidity": 99.9,
+                "temperature": 17.3
+            },
+            "2022-08-13T20:52:10": {
+                "humidity": 99.9,
+                "temperature": 17.2
+            },
+            "2022-08-13T20:54:36": {
+                "humidity": 99.9,
+                "temperature": 17.2
+            },
+            "2022-08-13T20:57:02": {
+                "humidity": 99.9,
+                "temperature": 17.2
+            },
+            "2022-08-13T20:59:28": {
+                "humidity": 99.9,
+                "temperature": 17.1
+            },
+            "2022-08-13T21:01:54": {
+                "humidity": 99.9,
+                "temperature": 17.1
+            },
+            "2022-08-13T21:04:20": {
+                "humidity": 99.9,
+                "temperature": 17.1
+            },
+            "2022-08-13T21:06:46": {
+                "humidity": 99.9,
+                "temperature": 17.0
+            },
+            "2022-08-13T21:09:12": {
+                "humidity": 99.9,
+                "temperature": 17.0
+            },
+            "2022-08-13T21:11:38": {
+                "humidity": 99.9,
+                "temperature": 16.9
+            },
+            "2022-08-13T21:14:03": {
+                "humidity": 99.9,
+                "temperature": 16.9
+            },
+            "2022-08-13T21:16:29": {
+                "humidity": 99.9,
+                "temperature": 16.9
+            },
+            "2022-08-13T21:18:55": {
+                "humidity": 99.9,
+                "temperature": 16.8
+            },
+            "2022-08-13T21:21:21": {
+                "humidity": 99.9,
+                "temperature": 16.8
+            },
+            "2022-08-13T21:23:47": {
+                "humidity": 99.9,
+                "temperature": 16.8
+            },
+            "2022-08-13T21:26:13": {
+                "humidity": 99.9,
+                "temperature": 16.8
+            },
+            "2022-08-13T21:28:39": {
+                "humidity": 99.9,
+                "temperature": 16.7
+            },
+            "2022-08-13T21:31:05": {
+                "humidity": 99.9,
+                "temperature": 16.7
+            },
+            "2022-08-13T21:33:31": {
+                "humidity": 99.9,
+                "temperature": 16.7
+            },
+            "2022-08-13T21:35:57": {
+                "humidity": 99.9,
+                "temperature": 16.6
+            },
+            "2022-08-13T21:38:23": {
+                "humidity": 99.9,
+                "temperature": 16.6
+            },
+            "2022-08-13T21:40:49": {
+                "humidity": 99.9,
+                "temperature": 16.5
+            },
+            "2022-08-13T21:43:16": {
+                "humidity": 99.9,
+                "temperature": 16.5
+            },
+            "2022-08-13T21:45:42": {
+                "humidity": 99.9,
+                "temperature": 16.5
+            },
+            "2022-08-13T21:48:07": {
+                "humidity": 99.9,
+                "temperature": 16.4
+            },
+            "2022-08-13T21:50:33": {
+                "humidity": 99.9,
+                "temperature": 16.4
+            },
+            "2022-08-13T21:53:01": {
+                "humidity": 99.9,
+                "temperature": 16.4
+            },
+            "2022-08-13T21:55:28": {
+                "humidity": 99.9,
+                "temperature": 16.3
+            },
+            "2022-08-13T21:57:54": {
+                "humidity": 99.9,
+                "temperature": 16.4
+            },
+            "2022-08-13T22:02:49": {
+                "humidity": 99.9,
+                "temperature": 16.3
+            },
+            "2022-08-13T22:05:16": {
+                "humidity": 99.9,
+                "temperature": 16.3
+            },
+            "2022-08-13T22:07:43": {
+                "humidity": 99.9,
+                "temperature": 16.3
+            },
+            "2022-08-13T22:10:11": {
+                "humidity": 99.9,
+                "temperature": 16.3
+            },
+            "2022-08-13T22:12:37": {
+                "humidity": 99.9,
+                "temperature": 16.3
+            },
+            "2022-08-13T22:15:04": {
+                "humidity": 99.9,
+                "temperature": 16.3
+            },
+            "2022-08-13T22:17:30": {
+                "humidity": 99.9,
+                "temperature": 16.2
+            },
+            "2022-08-13T22:19:56": {
+                "humidity": 99.9,
+                "temperature": 16.2
+            },
+            "2022-08-13T22:22:22": {
+                "humidity": 99.9,
+                "temperature": 16.2
+            },
+            "2022-08-13T22:24:48": {
+                "humidity": 99.9,
+                "temperature": 16.2
+            },
+            "2022-08-13T22:27:14": {
+                "humidity": 99.9,
+                "temperature": 16.2
+            },
+            "2022-08-13T22:29:40": {
+                "humidity": 99.9,
+                "temperature": 16.2
+            },
+            "2022-08-13T22:32:24": {
+                "humidity": 99.9,
+                "temperature": 16.2
+            },
+            "2022-08-13T22:34:58": {
+                "humidity": 99.9,
+                "temperature": 16.2
+            },
+            "2022-08-13T22:37:24": {
+                "humidity": 99.9,
+                "temperature": 16.2
+            },
+            "2022-08-13T22:39:52": {
+                "humidity": 99.9,
+                "temperature": 16.1
+            },
+            "2022-08-13T22:42:19": {
+                "humidity": 99.9,
+                "temperature": 16.2
+            },
+            "2022-08-13T22:44:46": {
+                "humidity": 99.9,
+                "temperature": 16.2
+            },
+            "2022-08-13T22:47:12": {
+                "humidity": 99.9,
+                "temperature": 16.2
+            },
+            "2022-08-13T22:49:38": {
+                "humidity": 99.9,
+                "temperature": 16.2
+            },
+            "2022-08-13T22:52:04": {
+                "humidity": 99.9,
+                "temperature": 16.1
+            },
+            "2022-08-13T22:54:30": {
+                "humidity": 99.9,
+                "temperature": 16.1
+            },
+            "2022-08-13T22:56:55": {
+                "humidity": 99.9,
+                "temperature": 16.0
+            },
+            "2022-08-13T22:59:21": {
+                "humidity": 99.9,
+                "temperature": 16.0
+            },
+            "2022-08-13T23:01:47": {
+                "humidity": 99.9,
+                "temperature": 16.0
+            },
+            "2022-08-13T23:04:15": {
+                "humidity": 99.9,
+                "temperature": 15.9
+            },
+            "2022-08-13T23:06:41": {
+                "humidity": 99.9,
+                "temperature": 15.9
+            },
+            "2022-08-13T23:09:08": {
+                "humidity": 99.9,
+                "temperature": 15.9
+            },
+            "2022-08-13T23:11:34": {
+                "humidity": 99.9,
+                "temperature": 15.8
+            },
+            "2022-08-13T23:14:03": {
+                "humidity": 99.9,
+                "temperature": 15.8
+            },
+            "2022-08-13T23:16:29": {
+                "humidity": 99.9,
+                "temperature": 15.8
+            },
+            "2022-08-13T23:18:56": {
+                "humidity": 99.9,
+                "temperature": 15.8
+            },
+            "2022-08-13T23:21:23": {
+                "humidity": 99.9,
+                "temperature": 15.7
+            },
+            "2022-08-13T23:23:49": {
+                "humidity": 99.9,
+                "temperature": 15.7
+            },
+            "2022-08-13T23:26:16": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T23:28:42": {
+                "humidity": 99.9,
+                "temperature": 15.6
+            },
+            "2022-08-13T23:31:08": {
+                "humidity": 99.9,
+                "temperature": 15.5
+            },
+            "2022-08-13T23:33:33": {
+                "humidity": 99.9,
+                "temperature": 15.5
+            },
+            "2022-08-13T23:35:59": {
+                "humidity": 99.9,
+                "temperature": 15.5
+            },
+            "2022-08-13T23:38:26": {
+                "humidity": 99.9,
+                "temperature": 15.4
+            },
+            "2022-08-13T23:40:52": {
+                "humidity": 99.9,
+                "temperature": 15.4
+            },
+            "2022-08-13T23:43:19": {
+                "humidity": 99.9,
+                "temperature": 15.3
+            },
+            "2022-08-13T23:45:46": {
+                "humidity": 99.9,
+                "temperature": 15.3
+            },
+            "2022-08-13T23:48:13": {
+                "humidity": 99.9,
+                "temperature": 15.3
+            },
+            "2022-08-13T23:50:40": {
+                "humidity": 99.9,
+                "temperature": 15.3
+            },
+            "2022-08-13T23:53:27": {
+                "humidity": 99.9,
+                "temperature": 15.3
+            },
+            "2022-08-13T23:55:55": {
+                "humidity": 99.9,
+                "temperature": 15.2
+            },
+            "2022-08-13T23:58:22": {
+                "humidity": 99.9,
+                "temperature": 15.1
             }
         }
     }

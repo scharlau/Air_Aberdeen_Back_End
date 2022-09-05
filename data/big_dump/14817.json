@@ -1,17 +1,17 @@
 {
     "14817": {
         "info": {
-            "P1": "26.52",
-            "P2": "5.03",
-            "humidity": "0.0",
+            "P1": "0.0",
+            "P2": "0.0",
+            "humidity": "88.10",
             "latitude": "57.104",
             "location_id": "14817",
             "longitude": "-2.094",
-            "pressure": "0.0",
-            "sensor_id": "27333",
-            "sensor_type": "SDS011",
-            "temperature": "0.0",
-            "timestamp": "2022-09-02T23:54:58"
+            "pressure": "100537.13",
+            "sensor_id": "27334",
+            "sensor_type": "BME280",
+            "temperature": "15.02",
+            "timestamp": "2022-09-03T23:46:35"
         },
         "readings": {
             "2022-07-26T09:50:31": {
@@ -63202,6 +63202,2041 @@
             "2022-09-02T23:54:58": {
                 "P1": 26.52,
                 "P2": 5.03
+            },
+            "2022-09-03T00:00:17": {
+                "humidity": 92.57,
+                "pressure": 100539.03,
+                "temperature": 14.39
+            },
+            "2022-09-03T00:06:11": {
+                "humidity": 92.49,
+                "pressure": 100536.34,
+                "temperature": 14.39
+            },
+            "2022-09-03T00:08:47": {
+                "humidity": 93.15,
+                "pressure": 100533.03,
+                "temperature": 14.29
+            },
+            "2022-09-03T00:11:21": {
+                "humidity": 93.12,
+                "pressure": 100543.78,
+                "temperature": 14.29
+            },
+            "2022-09-03T00:14:04": {
+                "humidity": 93.47,
+                "pressure": 100533.5,
+                "temperature": 14.33
+            },
+            "2022-09-03T00:17:10": {
+                "humidity": 92.85,
+                "pressure": 100526.94,
+                "temperature": 14.35
+            },
+            "2022-09-03T00:19:45": {
+                "humidity": 92.96,
+                "pressure": 100529.13,
+                "temperature": 14.32
+            },
+            "2022-09-03T00:22:18": {
+                "humidity": 93.21,
+                "pressure": 100521.72,
+                "temperature": 14.34
+            },
+            "2022-09-03T00:24:47": {
+                "humidity": 93.19,
+                "pressure": 100527.28,
+                "temperature": 14.32
+            },
+            "2022-09-03T00:27:23": {
+                "humidity": 93.38,
+                "pressure": 100520.03,
+                "temperature": 14.33
+            },
+            "2022-09-03T00:29:56": {
+                "humidity": 93.42,
+                "pressure": 100524.28,
+                "temperature": 14.27
+            },
+            "2022-09-03T00:32:39": {
+                "humidity": 92.41,
+                "pressure": 100523.81,
+                "temperature": 14.46
+            },
+            "2022-09-03T00:35:13": {
+                "humidity": 93.5,
+                "pressure": 100515.19,
+                "temperature": 14.28
+            },
+            "2022-09-03T00:37:43": {
+                "humidity": 92.95,
+                "pressure": 100512.97,
+                "temperature": 14.32
+            },
+            "2022-09-03T00:40:21": {
+                "humidity": 93.33,
+                "pressure": 100516.84,
+                "temperature": 14.29
+            },
+            "2022-09-03T00:43:09": {
+                "humidity": 93.22,
+                "pressure": 100516.84,
+                "temperature": 14.29
+            },
+            "2022-09-03T00:49:09": {
+                "humidity": 92.92,
+                "pressure": 100510.47,
+                "temperature": 14.3
+            },
+            "2022-09-03T00:51:58": {
+                "humidity": 92.72,
+                "pressure": 100515.06,
+                "temperature": 14.44
+            },
+            "2022-09-03T00:54:42": {
+                "humidity": 92.56,
+                "pressure": 100513.78,
+                "temperature": 14.4
+            },
+            "2022-09-03T01:00:03": {
+                "humidity": 93.26,
+                "pressure": 100509.44,
+                "temperature": 14.31
+            },
+            "2022-09-03T01:05:15": {
+                "humidity": 92.42,
+                "pressure": 100508.31,
+                "temperature": 14.48
+            },
+            "2022-09-03T01:10:37": {
+                "humidity": 92.53,
+                "pressure": 100507.0,
+                "temperature": 14.44
+            },
+            "2022-09-03T01:13:40": {
+                "humidity": 92.75,
+                "pressure": 100501.47,
+                "temperature": 14.38
+            },
+            "2022-09-03T01:18:51": {
+                "humidity": 92.93,
+                "pressure": 100501.31,
+                "temperature": 14.39
+            },
+            "2022-09-03T01:30:07": {
+                "humidity": 92.32,
+                "pressure": 100492.94,
+                "temperature": 14.34
+            },
+            "2022-09-03T01:32:55": {
+                "humidity": 92.48,
+                "pressure": 100493.63,
+                "temperature": 14.28
+            },
+            "2022-09-03T01:44:01": {
+                "humidity": 92.64,
+                "pressure": 100486.31,
+                "temperature": 14.14
+            },
+            "2022-09-03T01:46:39": {
+                "humidity": 92.57,
+                "pressure": 100480.28,
+                "temperature": 14.03
+            },
+            "2022-09-03T01:49:20": {
+                "humidity": 92.66,
+                "pressure": 100478.94,
+                "temperature": 14.07
+            },
+            "2022-09-03T01:52:06": {
+                "humidity": 92.59,
+                "pressure": 100480.66,
+                "temperature": 14.0
+            },
+            "2022-09-03T01:54:50": {
+                "humidity": 92.34,
+                "pressure": 100475.78,
+                "temperature": 14.04
+            },
+            "2022-09-03T01:57:31": {
+                "humidity": 92.3,
+                "pressure": 100479.59,
+                "temperature": 14.09
+            },
+            "2022-09-03T02:00:17": {
+                "humidity": 92.15,
+                "pressure": 100468.19,
+                "temperature": 13.99
+            },
+            "2022-09-03T02:02:48": {
+                "humidity": 92.28,
+                "pressure": 100471.09,
+                "temperature": 13.98
+            },
+            "2022-09-03T02:05:23": {
+                "humidity": 92.19,
+                "pressure": 100472.22,
+                "temperature": 14.03
+            },
+            "2022-09-03T02:08:07": {
+                "humidity": 92.32,
+                "pressure": 100468.38,
+                "temperature": 13.98
+            },
+            "2022-09-03T02:10:50": {
+                "humidity": 92.4,
+                "pressure": 100470.72,
+                "temperature": 14.01
+            },
+            "2022-09-03T02:13:39": {
+                "humidity": 92.22,
+                "pressure": 100476.41,
+                "temperature": 14.06
+            },
+            "2022-09-03T02:16:19": {
+                "humidity": 92.24,
+                "pressure": 100474.59,
+                "temperature": 13.98
+            },
+            "2022-09-03T02:18:54": {
+                "humidity": 92.25,
+                "pressure": 100473.25,
+                "temperature": 14.02
+            },
+            "2022-09-03T02:21:23": {
+                "humidity": 92.04,
+                "pressure": 100465.81,
+                "temperature": 14.04
+            },
+            "2022-09-03T02:23:51": {
+                "humidity": 92.31,
+                "pressure": 100466.81,
+                "temperature": 14.03
+            },
+            "2022-09-03T02:26:21": {
+                "humidity": 92.43,
+                "pressure": 100467.16,
+                "temperature": 14.08
+            },
+            "2022-09-03T02:28:50": {
+                "humidity": 92.02,
+                "pressure": 100466.28,
+                "temperature": 14.08
+            },
+            "2022-09-03T02:31:17": {
+                "humidity": 92.35,
+                "pressure": 100473.72,
+                "temperature": 14.06
+            },
+            "2022-09-03T02:33:45": {
+                "humidity": 91.71,
+                "pressure": 100465.41,
+                "temperature": 14.16
+            },
+            "2022-09-03T02:36:15": {
+                "humidity": 91.39,
+                "pressure": 100465.22,
+                "temperature": 14.25
+            },
+            "2022-09-03T02:38:44": {
+                "humidity": 91.68,
+                "pressure": 100458.0,
+                "temperature": 14.18
+            },
+            "2022-09-03T02:41:11": {
+                "humidity": 91.55,
+                "pressure": 100458.78,
+                "temperature": 14.26
+            },
+            "2022-09-03T02:46:35": {
+                "humidity": 91.66,
+                "pressure": 100465.06,
+                "temperature": 14.19
+            },
+            "2022-09-03T02:49:04": {
+                "humidity": 92.33,
+                "pressure": 100461.78,
+                "temperature": 14.08
+            },
+            "2022-09-03T02:51:39": {
+                "humidity": 91.94,
+                "pressure": 100460.75,
+                "temperature": 14.09
+            },
+            "2022-09-03T02:54:08": {
+                "humidity": 92.25,
+                "pressure": 100460.41,
+                "temperature": 14.13
+            },
+            "2022-09-03T02:56:36": {
+                "humidity": 92.44,
+                "pressure": 100457.75,
+                "temperature": 14.04
+            },
+            "2022-09-03T02:59:04": {
+                "humidity": 91.68,
+                "pressure": 100459.38,
+                "temperature": 14.14
+            },
+            "2022-09-03T03:01:32": {
+                "humidity": 91.6,
+                "pressure": 100456.34,
+                "temperature": 14.17
+            },
+            "2022-09-03T03:03:58": {
+                "humidity": 91.9,
+                "pressure": 100455.0,
+                "temperature": 14.13
+            },
+            "2022-09-03T03:06:25": {
+                "humidity": 91.65,
+                "pressure": 100461.25,
+                "temperature": 14.36
+            },
+            "2022-09-03T03:08:52": {
+                "humidity": 91.46,
+                "pressure": 100454.59,
+                "temperature": 14.24
+            },
+            "2022-09-03T03:11:22": {
+                "humidity": 91.24,
+                "pressure": 100450.84,
+                "temperature": 14.33
+            },
+            "2022-09-03T03:13:51": {
+                "humidity": 91.41,
+                "pressure": 100459.28,
+                "temperature": 14.3
+            },
+            "2022-09-03T03:16:18": {
+                "humidity": 91.38,
+                "pressure": 100457.84,
+                "temperature": 14.19
+            },
+            "2022-09-03T03:18:45": {
+                "humidity": 91.09,
+                "pressure": 100450.03,
+                "temperature": 14.24
+            },
+            "2022-09-03T03:21:14": {
+                "humidity": 91.31,
+                "pressure": 100449.94,
+                "temperature": 14.18
+            },
+            "2022-09-03T03:23:41": {
+                "humidity": 91.27,
+                "pressure": 100444.81,
+                "temperature": 14.23
+            },
+            "2022-09-03T03:26:12": {
+                "humidity": 91.37,
+                "pressure": 100442.0,
+                "temperature": 14.16
+            },
+            "2022-09-03T03:28:39": {
+                "humidity": 91.19,
+                "pressure": 100445.19,
+                "temperature": 14.2
+            },
+            "2022-09-03T03:31:14": {
+                "humidity": 91.03,
+                "pressure": 100441.69,
+                "temperature": 14.19
+            },
+            "2022-09-03T03:33:41": {
+                "humidity": 91.1,
+                "pressure": 100439.66,
+                "temperature": 14.21
+            },
+            "2022-09-03T03:36:10": {
+                "humidity": 91.53,
+                "pressure": 100432.81,
+                "temperature": 14.11
+            },
+            "2022-09-03T03:38:37": {
+                "humidity": 91.76,
+                "pressure": 100431.66,
+                "temperature": 14.05
+            },
+            "2022-09-03T03:41:12": {
+                "humidity": 91.84,
+                "pressure": 100429.63,
+                "temperature": 14.07
+            },
+            "2022-09-03T03:43:39": {
+                "humidity": 91.58,
+                "pressure": 100435.19,
+                "temperature": 14.05
+            },
+            "2022-09-03T03:46:06": {
+                "humidity": 92.28,
+                "pressure": 100442.25,
+                "temperature": 14.06
+            },
+            "2022-09-03T03:48:33": {
+                "humidity": 92.08,
+                "pressure": 100433.97,
+                "temperature": 14.08
+            },
+            "2022-09-03T03:51:05": {
+                "humidity": 92.35,
+                "pressure": 100423.16,
+                "temperature": 14.16
+            },
+            "2022-09-03T03:53:34": {
+                "humidity": 92.56,
+                "pressure": 100431.25,
+                "temperature": 14.16
+            },
+            "2022-09-03T03:56:03": {
+                "humidity": 92.21,
+                "pressure": 100429.69,
+                "temperature": 14.22
+            },
+            "2022-09-03T03:58:31": {
+                "humidity": 92.17,
+                "pressure": 100428.22,
+                "temperature": 14.19
+            },
+            "2022-09-03T04:01:07": {
+                "humidity": 92.36,
+                "pressure": 100430.53,
+                "temperature": 14.22
+            },
+            "2022-09-03T04:03:34": {
+                "humidity": 92.26,
+                "pressure": 100424.31,
+                "temperature": 14.22
+            },
+            "2022-09-03T04:06:02": {
+                "humidity": 92.29,
+                "pressure": 100425.97,
+                "temperature": 14.23
+            },
+            "2022-09-03T04:08:33": {
+                "humidity": 92.68,
+                "pressure": 100418.94,
+                "temperature": 14.22
+            },
+            "2022-09-03T04:11:02": {
+                "humidity": 92.49,
+                "pressure": 100417.91,
+                "temperature": 14.23
+            },
+            "2022-09-03T04:13:35": {
+                "humidity": 92.14,
+                "pressure": 100417.38,
+                "temperature": 14.27
+            },
+            "2022-09-03T04:16:16": {
+                "humidity": 92.59,
+                "pressure": 100430.19,
+                "temperature": 14.25
+            },
+            "2022-09-03T04:18:44": {
+                "humidity": 92.2,
+                "pressure": 100422.41,
+                "temperature": 14.3
+            },
+            "2022-09-03T04:21:14": {
+                "humidity": 92.28,
+                "pressure": 100413.16,
+                "temperature": 14.25
+            },
+            "2022-09-03T04:23:44": {
+                "humidity": 92.05,
+                "pressure": 100412.16,
+                "temperature": 14.26
+            },
+            "2022-09-03T04:26:14": {
+                "humidity": 92.5,
+                "pressure": 100425.97,
+                "temperature": 14.23
+            },
+            "2022-09-03T04:28:41": {
+                "humidity": 92.7,
+                "pressure": 100427.19,
+                "temperature": 14.2
+            },
+            "2022-09-03T04:31:10": {
+                "humidity": 92.34,
+                "pressure": 100412.0,
+                "temperature": 14.27
+            },
+            "2022-09-03T04:33:37": {
+                "humidity": 92.46,
+                "pressure": 100418.09,
+                "temperature": 14.21
+            },
+            "2022-09-03T04:36:13": {
+                "humidity": 91.9,
+                "pressure": 100423.72,
+                "temperature": 14.35
+            },
+            "2022-09-03T04:38:42": {
+                "humidity": 92.4,
+                "pressure": 100416.53,
+                "temperature": 14.27
+            },
+            "2022-09-03T04:41:11": {
+                "humidity": 92.46,
+                "pressure": 100421.06,
+                "temperature": 14.26
+            },
+            "2022-09-03T04:43:39": {
+                "humidity": 91.95,
+                "pressure": 100421.13,
+                "temperature": 14.41
+            },
+            "2022-09-03T04:46:09": {
+                "humidity": 92.0,
+                "pressure": 100423.19,
+                "temperature": 14.39
+            },
+            "2022-09-03T04:48:42": {
+                "humidity": 92.05,
+                "pressure": 100431.31,
+                "temperature": 14.31
+            },
+            "2022-09-03T04:51:14": {
+                "humidity": 92.17,
+                "pressure": 100425.38,
+                "temperature": 14.36
+            },
+            "2022-09-03T04:53:43": {
+                "humidity": 92.15,
+                "pressure": 100419.0,
+                "temperature": 14.37
+            },
+            "2022-09-03T04:58:40": {
+                "humidity": 92.2,
+                "pressure": 100417.28,
+                "temperature": 14.36
+            },
+            "2022-09-03T05:01:11": {
+                "humidity": 92.32,
+                "pressure": 100405.88,
+                "temperature": 14.34
+            },
+            "2022-09-03T05:03:38": {
+                "humidity": 92.12,
+                "pressure": 100406.94,
+                "temperature": 14.47
+            },
+            "2022-09-03T05:06:04": {
+                "humidity": 92.22,
+                "pressure": 100404.31,
+                "temperature": 14.39
+            },
+            "2022-09-03T05:08:32": {
+                "humidity": 91.89,
+                "pressure": 100408.03,
+                "temperature": 14.38
+            },
+            "2022-09-03T05:11:04": {
+                "humidity": 92.17,
+                "pressure": 100395.13,
+                "temperature": 14.48
+            },
+            "2022-09-03T05:13:31": {
+                "humidity": 92.38,
+                "pressure": 100398.28,
+                "temperature": 14.37
+            },
+            "2022-09-03T05:16:03": {
+                "humidity": 91.66,
+                "pressure": 100401.38,
+                "temperature": 14.49
+            },
+            "2022-09-03T05:18:31": {
+                "humidity": 92.15,
+                "pressure": 100398.59,
+                "temperature": 14.42
+            },
+            "2022-09-03T05:21:00": {
+                "humidity": 91.99,
+                "pressure": 100393.53,
+                "temperature": 14.39
+            },
+            "2022-09-03T05:23:28": {
+                "humidity": 92.22,
+                "pressure": 100395.09,
+                "temperature": 14.57
+            },
+            "2022-09-03T05:26:04": {
+                "humidity": 92.36,
+                "pressure": 100404.09,
+                "temperature": 14.49
+            },
+            "2022-09-03T05:28:38": {
+                "humidity": 91.79,
+                "pressure": 100408.78,
+                "temperature": 14.55
+            },
+            "2022-09-03T05:31:17": {
+                "humidity": 91.87,
+                "pressure": 100403.53,
+                "temperature": 14.54
+            },
+            "2022-09-03T05:33:45": {
+                "humidity": 92.05,
+                "pressure": 100403.72,
+                "temperature": 14.52
+            },
+            "2022-09-03T05:36:17": {
+                "humidity": 91.86,
+                "pressure": 100405.41,
+                "temperature": 14.53
+            },
+            "2022-09-03T05:38:45": {
+                "humidity": 91.91,
+                "pressure": 100402.88,
+                "temperature": 14.52
+            },
+            "2022-09-03T05:41:14": {
+                "humidity": 92.12,
+                "pressure": 100415.69,
+                "temperature": 14.49
+            },
+            "2022-09-03T05:43:42": {
+                "humidity": 92.35,
+                "pressure": 100409.47,
+                "temperature": 14.49
+            },
+            "2022-09-03T05:46:11": {
+                "humidity": 92.03,
+                "pressure": 100413.0,
+                "temperature": 14.49
+            },
+            "2022-09-03T05:48:39": {
+                "humidity": 92.02,
+                "pressure": 100413.28,
+                "temperature": 14.55
+            },
+            "2022-09-03T05:51:14": {
+                "humidity": 92.02,
+                "pressure": 100409.41,
+                "temperature": 14.57
+            },
+            "2022-09-03T05:53:46": {
+                "humidity": 91.6,
+                "pressure": 100408.41,
+                "temperature": 14.58
+            },
+            "2022-09-03T05:56:19": {
+                "humidity": 91.55,
+                "pressure": 100412.59,
+                "temperature": 14.61
+            },
+            "2022-09-03T05:58:51": {
+                "humidity": 91.46,
+                "pressure": 100423.84,
+                "temperature": 14.64
+            },
+            "2022-09-03T06:03:47": {
+                "humidity": 91.61,
+                "pressure": 100415.13,
+                "temperature": 14.62
+            },
+            "2022-09-03T06:06:20": {
+                "humidity": 91.43,
+                "pressure": 100415.94,
+                "temperature": 14.63
+            },
+            "2022-09-03T06:08:52": {
+                "humidity": 91.92,
+                "pressure": 100418.16,
+                "temperature": 14.59
+            },
+            "2022-09-03T06:11:19": {
+                "humidity": 91.87,
+                "pressure": 100425.41,
+                "temperature": 14.59
+            },
+            "2022-09-03T06:13:46": {
+                "humidity": 91.57,
+                "pressure": 100423.69,
+                "temperature": 14.66
+            },
+            "2022-09-03T06:16:13": {
+                "humidity": 91.73,
+                "pressure": 100420.84,
+                "temperature": 14.59
+            },
+            "2022-09-03T06:18:40": {
+                "humidity": 91.71,
+                "pressure": 100416.78,
+                "temperature": 14.63
+            },
+            "2022-09-03T06:21:07": {
+                "humidity": 91.86,
+                "pressure": 100412.59,
+                "temperature": 14.61
+            },
+            "2022-09-03T06:23:34": {
+                "humidity": 91.32,
+                "pressure": 100415.44,
+                "temperature": 14.82
+            },
+            "2022-09-03T06:26:09": {
+                "humidity": 91.22,
+                "pressure": 100427.97,
+                "temperature": 14.75
+            },
+            "2022-09-03T06:28:38": {
+                "humidity": 91.2,
+                "pressure": 100425.63,
+                "temperature": 14.72
+            },
+            "2022-09-03T06:31:08": {
+                "humidity": 91.04,
+                "pressure": 100428.09,
+                "temperature": 14.82
+            },
+            "2022-09-03T06:33:37": {
+                "humidity": 91.15,
+                "pressure": 100423.53,
+                "temperature": 14.82
+            },
+            "2022-09-03T06:36:06": {
+                "humidity": 90.38,
+                "pressure": 100432.09,
+                "temperature": 14.86
+            },
+            "2022-09-03T06:38:36": {
+                "humidity": 90.41,
+                "pressure": 100425.5,
+                "temperature": 14.88
+            },
+            "2022-09-03T06:41:05": {
+                "humidity": 90.97,
+                "pressure": 100425.59,
+                "temperature": 14.95
+            },
+            "2022-09-03T06:43:34": {
+                "humidity": 90.51,
+                "pressure": 100428.5,
+                "temperature": 14.94
+            },
+            "2022-09-03T06:48:34": {
+                "humidity": 90.51,
+                "pressure": 100422.0,
+                "temperature": 15.03
+            },
+            "2022-09-03T06:51:06": {
+                "humidity": 90.08,
+                "pressure": 100428.88,
+                "temperature": 15.2
+            },
+            "2022-09-03T06:53:35": {
+                "humidity": 89.49,
+                "pressure": 100427.19,
+                "temperature": 15.49
+            },
+            "2022-09-03T06:56:05": {
+                "humidity": 88.32,
+                "pressure": 100430.75,
+                "temperature": 15.64
+            },
+            "2022-09-03T06:58:35": {
+                "humidity": 88.23,
+                "pressure": 100427.41,
+                "temperature": 15.77
+            },
+            "2022-09-03T07:01:11": {
+                "humidity": 87.66,
+                "pressure": 100428.31,
+                "temperature": 15.69
+            },
+            "2022-09-03T07:03:40": {
+                "humidity": 87.32,
+                "pressure": 100435.19,
+                "temperature": 15.87
+            },
+            "2022-09-03T07:06:12": {
+                "humidity": 87.06,
+                "pressure": 100438.88,
+                "temperature": 15.79
+            },
+            "2022-09-03T07:08:39": {
+                "humidity": 86.9,
+                "pressure": 100437.81,
+                "temperature": 15.65
+            },
+            "2022-09-03T07:11:12": {
+                "humidity": 87.77,
+                "pressure": 100432.72,
+                "temperature": 15.56
+            },
+            "2022-09-03T07:13:42": {
+                "humidity": 87.48,
+                "pressure": 100430.75,
+                "temperature": 15.64
+            },
+            "2022-09-03T07:16:20": {
+                "humidity": 87.87,
+                "pressure": 100433.53,
+                "temperature": 15.56
+            },
+            "2022-09-03T07:18:48": {
+                "humidity": 87.55,
+                "pressure": 100426.09,
+                "temperature": 15.58
+            },
+            "2022-09-03T07:21:18": {
+                "humidity": 87.26,
+                "pressure": 100427.13,
+                "temperature": 15.72
+            },
+            "2022-09-03T07:23:46": {
+                "humidity": 87.3,
+                "pressure": 100431.0,
+                "temperature": 15.69
+            },
+            "2022-09-03T07:26:15": {
+                "humidity": 86.93,
+                "pressure": 100433.38,
+                "temperature": 15.73
+            },
+            "2022-09-03T07:28:43": {
+                "humidity": 86.71,
+                "pressure": 100426.53,
+                "temperature": 15.91
+            },
+            "2022-09-03T07:31:14": {
+                "humidity": 87.17,
+                "pressure": 100427.97,
+                "temperature": 15.73
+            },
+            "2022-09-03T07:33:41": {
+                "humidity": 87.03,
+                "pressure": 100431.19,
+                "temperature": 15.68
+            },
+            "2022-09-03T07:36:11": {
+                "humidity": 88.18,
+                "pressure": 100427.97,
+                "temperature": 15.43
+            },
+            "2022-09-03T07:38:41": {
+                "humidity": 87.97,
+                "pressure": 100425.34,
+                "temperature": 15.49
+            },
+            "2022-09-03T07:41:11": {
+                "humidity": 87.68,
+                "pressure": 100432.88,
+                "temperature": 15.54
+            },
+            "2022-09-03T07:43:49": {
+                "humidity": 88.88,
+                "pressure": 100432.31,
+                "temperature": 15.29
+            },
+            "2022-09-03T07:46:18": {
+                "humidity": 88.42,
+                "pressure": 100430.28,
+                "temperature": 15.46
+            },
+            "2022-09-03T07:48:57": {
+                "humidity": 88.95,
+                "pressure": 100432.06,
+                "temperature": 15.39
+            },
+            "2022-09-03T07:51:26": {
+                "humidity": 88.51,
+                "pressure": 100434.69,
+                "temperature": 15.47
+            },
+            "2022-09-03T07:53:56": {
+                "humidity": 88.11,
+                "pressure": 100432.78,
+                "temperature": 15.62
+            },
+            "2022-09-03T07:56:24": {
+                "humidity": 88.53,
+                "pressure": 100439.41,
+                "temperature": 15.45
+            },
+            "2022-09-03T07:58:52": {
+                "humidity": 88.94,
+                "pressure": 100435.03,
+                "temperature": 15.44
+            },
+            "2022-09-03T08:01:24": {
+                "humidity": 88.43,
+                "pressure": 100445.09,
+                "temperature": 15.5
+            },
+            "2022-09-03T08:03:52": {
+                "humidity": 89.07,
+                "pressure": 100437.06,
+                "temperature": 15.42
+            },
+            "2022-09-03T08:06:21": {
+                "humidity": 88.7,
+                "pressure": 100442.56,
+                "temperature": 15.48
+            },
+            "2022-09-03T08:08:55": {
+                "humidity": 89.09,
+                "pressure": 100435.03,
+                "temperature": 15.44
+            },
+            "2022-09-03T08:11:35": {
+                "humidity": 88.63,
+                "pressure": 100435.19,
+                "temperature": 15.57
+            },
+            "2022-09-03T08:14:03": {
+                "humidity": 88.32,
+                "pressure": 100432.97,
+                "temperature": 15.61
+            },
+            "2022-09-03T08:16:43": {
+                "humidity": 88.17,
+                "pressure": 100442.28,
+                "temperature": 15.58
+            },
+            "2022-09-03T08:19:11": {
+                "humidity": 88.88,
+                "pressure": 100438.66,
+                "temperature": 15.51
+            },
+            "2022-09-03T08:21:39": {
+                "humidity": 88.17,
+                "pressure": 100437.81,
+                "temperature": 15.65
+            },
+            "2022-09-03T08:24:14": {
+                "humidity": 87.93,
+                "pressure": 100433.38,
+                "temperature": 15.73
+            },
+            "2022-09-03T08:26:41": {
+                "humidity": 88.16,
+                "pressure": 100444.25,
+                "temperature": 15.64
+            },
+            "2022-09-03T08:29:16": {
+                "humidity": 88.61,
+                "pressure": 100441.63,
+                "temperature": 15.56
+            },
+            "2022-09-03T08:31:43": {
+                "humidity": 88.99,
+                "pressure": 100443.41,
+                "temperature": 15.49
+            },
+            "2022-09-03T08:34:11": {
+                "humidity": 89.26,
+                "pressure": 100444.81,
+                "temperature": 15.45
+            },
+            "2022-09-03T08:36:40": {
+                "humidity": 88.82,
+                "pressure": 100444.03,
+                "temperature": 15.51
+            },
+            "2022-09-03T08:39:09": {
+                "humidity": 89.34,
+                "pressure": 100446.94,
+                "temperature": 15.49
+            },
+            "2022-09-03T08:54:50": {
+                "humidity": 86.35,
+                "pressure": 100450.94,
+                "temperature": 16.35
+            },
+            "2022-09-03T08:57:20": {
+                "humidity": 84.99,
+                "pressure": 100447.56,
+                "temperature": 16.76
+            },
+            "2022-09-03T08:59:52": {
+                "humidity": 85.04,
+                "pressure": 100449.16,
+                "temperature": 16.7
+            },
+            "2022-09-03T09:07:37": {
+                "humidity": 84.1,
+                "pressure": 100450.22,
+                "temperature": 16.69
+            },
+            "2022-09-03T09:21:30": {
+                "humidity": 82.33,
+                "pressure": 100457.0,
+                "temperature": 17.08
+            },
+            "2022-09-03T09:24:08": {
+                "humidity": 81.87,
+                "pressure": 100461.59,
+                "temperature": 17.07
+            },
+            "2022-09-03T09:26:40": {
+                "humidity": 82.14,
+                "pressure": 100452.31,
+                "temperature": 17.23
+            },
+            "2022-09-03T09:29:08": {
+                "humidity": 81.74,
+                "pressure": 100463.03,
+                "temperature": 17.38
+            },
+            "2022-09-03T09:31:39": {
+                "humidity": 80.71,
+                "pressure": 100456.38,
+                "temperature": 17.69
+            },
+            "2022-09-03T09:34:07": {
+                "humidity": 81.69,
+                "pressure": 100443.66,
+                "temperature": 17.34
+            },
+            "2022-09-03T09:36:44": {
+                "humidity": 82.16,
+                "pressure": 100449.25,
+                "temperature": 17.26
+            },
+            "2022-09-03T09:39:13": {
+                "humidity": 81.36,
+                "pressure": 100455.38,
+                "temperature": 17.42
+            },
+            "2022-09-03T09:42:08": {
+                "humidity": 81.09,
+                "pressure": 100462.44,
+                "temperature": 17.43
+            },
+            "2022-09-03T09:44:38": {
+                "humidity": 82.35,
+                "pressure": 100463.19,
+                "temperature": 17.3
+            },
+            "2022-09-03T09:47:20": {
+                "humidity": 82.42,
+                "pressure": 100453.53,
+                "temperature": 17.14
+            },
+            "2022-09-03T09:52:15": {
+                "humidity": 80.17,
+                "pressure": 100458.97,
+                "temperature": 17.84
+            },
+            "2022-09-03T09:54:43": {
+                "humidity": 78.42,
+                "pressure": 100458.69,
+                "temperature": 18.27
+            },
+            "2022-09-03T09:57:16": {
+                "humidity": 76.98,
+                "pressure": 100450.22,
+                "temperature": 18.7
+            },
+            "2022-09-03T09:59:43": {
+                "humidity": 76.36,
+                "pressure": 100450.88,
+                "temperature": 18.85
+            },
+            "2022-09-03T10:05:28": {
+                "humidity": 75.6,
+                "pressure": 100462.34,
+                "temperature": 18.81
+            },
+            "2022-09-03T10:08:17": {
+                "humidity": 77.56,
+                "pressure": 100458.88,
+                "temperature": 18.25
+            },
+            "2022-09-03T10:10:47": {
+                "humidity": 78.24,
+                "pressure": 100456.56,
+                "temperature": 18.15
+            },
+            "2022-09-03T10:13:18": {
+                "humidity": 78.41,
+                "pressure": 100462.59,
+                "temperature": 18.11
+            },
+            "2022-09-03T10:16:07": {
+                "humidity": 77.69,
+                "pressure": 100450.78,
+                "temperature": 18.39
+            },
+            "2022-09-03T10:21:31": {
+                "humidity": 75.95,
+                "pressure": 100461.25,
+                "temperature": 18.68
+            },
+            "2022-09-03T10:26:49": {
+                "humidity": 76.4,
+                "pressure": 100460.0,
+                "temperature": 18.57
+            },
+            "2022-09-03T10:29:19": {
+                "humidity": 75.76,
+                "pressure": 100468.78,
+                "temperature": 18.73
+            },
+            "2022-09-03T10:37:39": {
+                "humidity": 77.36,
+                "pressure": 100464.59,
+                "temperature": 18.5
+            },
+            "2022-09-03T10:42:44": {
+                "humidity": 77.69,
+                "pressure": 100469.91,
+                "temperature": 18.17
+            },
+            "2022-09-03T10:45:31": {
+                "humidity": 78.15,
+                "pressure": 100475.78,
+                "temperature": 18.21
+            },
+            "2022-09-03T10:50:50": {
+                "humidity": 76.78,
+                "pressure": 100455.84,
+                "temperature": 18.62
+            },
+            "2022-09-03T10:56:08": {
+                "humidity": 76.48,
+                "pressure": 100476.72,
+                "temperature": 18.68
+            },
+            "2022-09-03T11:04:24": {
+                "humidity": 77.41,
+                "pressure": 100467.66,
+                "temperature": 18.34
+            },
+            "2022-09-03T11:09:47": {
+                "humidity": 77.18,
+                "pressure": 100476.84,
+                "temperature": 18.33
+            },
+            "2022-09-03T11:12:29": {
+                "humidity": 77.43,
+                "pressure": 100481.22,
+                "temperature": 18.27
+            },
+            "2022-09-03T11:15:08": {
+                "humidity": 79.45,
+                "pressure": 100481.81,
+                "temperature": 17.81
+            },
+            "2022-09-03T11:17:41": {
+                "humidity": 78.3,
+                "pressure": 100474.5,
+                "temperature": 18.1
+            },
+            "2022-09-03T11:20:20": {
+                "humidity": 79.39,
+                "pressure": 100484.13,
+                "temperature": 17.78
+            },
+            "2022-09-03T11:22:50": {
+                "humidity": 79.97,
+                "pressure": 100483.19,
+                "temperature": 17.64
+            },
+            "2022-09-03T11:25:19": {
+                "humidity": 79.27,
+                "pressure": 100477.66,
+                "temperature": 17.79
+            },
+            "2022-09-03T11:28:11": {
+                "humidity": 79.89,
+                "pressure": 100493.03,
+                "temperature": 17.71
+            },
+            "2022-09-03T11:31:22": {
+                "humidity": 80.56,
+                "pressure": 100484.13,
+                "temperature": 17.78
+            },
+            "2022-09-03T11:34:07": {
+                "humidity": 79.95,
+                "pressure": 100469.31,
+                "temperature": 17.73
+            },
+            "2022-09-03T11:36:36": {
+                "humidity": 80.92,
+                "pressure": 100479.94,
+                "temperature": 17.4
+            },
+            "2022-09-03T11:39:35": {
+                "humidity": 81.52,
+                "pressure": 100477.38,
+                "temperature": 17.32
+            },
+            "2022-09-03T11:42:10": {
+                "humidity": 80.74,
+                "pressure": 100463.56,
+                "temperature": 17.55
+            },
+            "2022-09-03T11:44:42": {
+                "humidity": 80.1,
+                "pressure": 100469.69,
+                "temperature": 17.7
+            },
+            "2022-09-03T11:47:36": {
+                "humidity": 80.2,
+                "pressure": 100480.5,
+                "temperature": 17.7
+            },
+            "2022-09-03T11:53:05": {
+                "humidity": 80.6,
+                "pressure": 100476.31,
+                "temperature": 17.61
+            },
+            "2022-09-03T11:55:51": {
+                "humidity": 79.12,
+                "pressure": 100470.5,
+                "temperature": 17.99
+            },
+            "2022-09-03T11:58:24": {
+                "humidity": 79.13,
+                "pressure": 100475.28,
+                "temperature": 18.04
+            },
+            "2022-09-03T12:00:54": {
+                "humidity": 78.0,
+                "pressure": 100466.59,
+                "temperature": 18.28
+            },
+            "2022-09-03T12:03:28": {
+                "humidity": 78.4,
+                "pressure": 100465.53,
+                "temperature": 18.16
+            },
+            "2022-09-03T12:06:20": {
+                "humidity": 79.01,
+                "pressure": 100471.13,
+                "temperature": 18.01
+            },
+            "2022-09-03T12:08:56": {
+                "humidity": 78.83,
+                "pressure": 100466.34,
+                "temperature": 18.03
+            },
+            "2022-09-03T12:19:39": {
+                "humidity": 80.2,
+                "pressure": 100472.38,
+                "temperature": 17.7
+            },
+            "2022-09-03T12:22:15": {
+                "humidity": 79.73,
+                "pressure": 100485.66,
+                "temperature": 17.87
+            },
+            "2022-09-03T12:24:43": {
+                "humidity": 80.25,
+                "pressure": 100477.59,
+                "temperature": 17.65
+            },
+            "2022-09-03T12:27:15": {
+                "humidity": 80.7,
+                "pressure": 100476.72,
+                "temperature": 17.58
+            },
+            "2022-09-03T12:30:14": {
+                "humidity": 80.97,
+                "pressure": 100496.88,
+                "temperature": 17.55
+            },
+            "2022-09-03T12:32:42": {
+                "humidity": 80.93,
+                "pressure": 100482.28,
+                "temperature": 17.5
+            },
+            "2022-09-03T12:35:19": {
+                "humidity": 81.3,
+                "pressure": 100475.56,
+                "temperature": 17.39
+            },
+            "2022-09-03T12:38:06": {
+                "humidity": 81.08,
+                "pressure": 100487.44,
+                "temperature": 17.45
+            },
+            "2022-09-03T12:40:41": {
+                "humidity": 80.54,
+                "pressure": 100488.75,
+                "temperature": 17.55
+            },
+            "2022-09-03T12:43:28": {
+                "humidity": 80.86,
+                "pressure": 100493.5,
+                "temperature": 17.47
+            },
+            "2022-09-03T12:46:04": {
+                "humidity": 80.38,
+                "pressure": 100491.13,
+                "temperature": 17.65
+            },
+            "2022-09-03T12:48:36": {
+                "humidity": 80.09,
+                "pressure": 100493.91,
+                "temperature": 17.79
+            },
+            "2022-09-03T12:51:06": {
+                "humidity": 80.43,
+                "pressure": 100492.38,
+                "temperature": 17.63
+            },
+            "2022-09-03T12:53:53": {
+                "humidity": 81.52,
+                "pressure": 100488.88,
+                "temperature": 17.41
+            },
+            "2022-09-03T12:56:20": {
+                "humidity": 81.38,
+                "pressure": 100493.66,
+                "temperature": 17.39
+            },
+            "2022-09-03T12:58:58": {
+                "humidity": 81.06,
+                "pressure": 100487.84,
+                "temperature": 17.42
+            },
+            "2022-09-03T13:01:33": {
+                "humidity": 80.93,
+                "pressure": 100481.84,
+                "temperature": 17.46
+            },
+            "2022-09-03T13:04:10": {
+                "humidity": 80.61,
+                "pressure": 100485.94,
+                "temperature": 17.7
+            },
+            "2022-09-03T13:06:44": {
+                "humidity": 79.37,
+                "pressure": 100476.09,
+                "temperature": 17.98
+            },
+            "2022-09-03T13:09:13": {
+                "humidity": 79.94,
+                "pressure": 100478.44,
+                "temperature": 17.72
+            },
+            "2022-09-03T13:11:40": {
+                "humidity": 79.23,
+                "pressure": 100486.72,
+                "temperature": 17.92
+            },
+            "2022-09-03T13:14:11": {
+                "humidity": 79.18,
+                "pressure": 100479.0,
+                "temperature": 17.96
+            },
+            "2022-09-03T13:21:56": {
+                "humidity": 80.47,
+                "pressure": 100487.78,
+                "temperature": 17.63
+            },
+            "2022-09-03T13:40:52": {
+                "humidity": 79.98,
+                "pressure": 100481.0,
+                "temperature": 17.81
+            },
+            "2022-09-03T13:43:31": {
+                "humidity": 79.85,
+                "pressure": 100473.03,
+                "temperature": 17.72
+            },
+            "2022-09-03T13:46:22": {
+                "humidity": 80.41,
+                "pressure": 100467.13,
+                "temperature": 17.62
+            },
+            "2022-09-03T13:48:56": {
+                "humidity": 81.65,
+                "pressure": 100483.03,
+                "temperature": 17.37
+            },
+            "2022-09-03T13:51:57": {
+                "humidity": 82.51,
+                "pressure": 100474.75,
+                "temperature": 17.17
+            },
+            "2022-09-03T13:54:30": {
+                "humidity": 81.85,
+                "pressure": 100477.63,
+                "temperature": 17.37
+            },
+            "2022-09-03T13:57:48": {
+                "humidity": 80.88,
+                "pressure": 100474.59,
+                "temperature": 17.53
+            },
+            "2022-09-03T14:00:53": {
+                "humidity": 81.54,
+                "pressure": 100478.47,
+                "temperature": 17.38
+            },
+            "2022-09-03T14:03:51": {
+                "humidity": 81.71,
+                "pressure": 100476.53,
+                "temperature": 17.31
+            },
+            "2022-09-03T14:09:34": {
+                "humidity": 82.07,
+                "pressure": 100479.38,
+                "temperature": 17.23
+            },
+            "2022-09-03T14:17:13": {
+                "humidity": 82.33,
+                "pressure": 100466.91,
+                "temperature": 17.22
+            },
+            "2022-09-03T14:19:45": {
+                "humidity": 81.68,
+                "pressure": 100469.06,
+                "temperature": 17.33
+            },
+            "2022-09-03T14:22:24": {
+                "humidity": 81.02,
+                "pressure": 100466.19,
+                "temperature": 17.42
+            },
+            "2022-09-03T14:25:09": {
+                "humidity": 81.83,
+                "pressure": 100462.41,
+                "temperature": 17.08
+            },
+            "2022-09-03T14:27:37": {
+                "humidity": 82.94,
+                "pressure": 100471.69,
+                "temperature": 16.92
+            },
+            "2022-09-03T14:30:17": {
+                "humidity": 82.96,
+                "pressure": 100464.97,
+                "temperature": 16.88
+            },
+            "2022-09-03T14:36:41": {
+                "humidity": 82.03,
+                "pressure": 100458.09,
+                "temperature": 17.13
+            },
+            "2022-09-03T14:46:45": {
+                "humidity": 82.57,
+                "pressure": 100464.34,
+                "temperature": 17.14
+            },
+            "2022-09-03T14:54:36": {
+                "humidity": 83.36,
+                "pressure": 100467.72,
+                "temperature": 16.94
+            },
+            "2022-09-03T14:58:00": {
+                "humidity": 82.87,
+                "pressure": 100473.06,
+                "temperature": 17.09
+            },
+            "2022-09-03T15:00:45": {
+                "humidity": 82.92,
+                "pressure": 100459.06,
+                "temperature": 17.06
+            },
+            "2022-09-03T15:07:04": {
+                "humidity": 82.93,
+                "pressure": 100449.09,
+                "temperature": 17.06
+            },
+            "2022-09-03T15:09:31": {
+                "humidity": 82.85,
+                "pressure": 100456.78,
+                "temperature": 17.03
+            },
+            "2022-09-03T15:12:36": {
+                "humidity": 83.3,
+                "pressure": 100451.56,
+                "temperature": 17.01
+            },
+            "2022-09-03T15:15:18": {
+                "humidity": 83.28,
+                "pressure": 100452.34,
+                "temperature": 16.95
+            },
+            "2022-09-03T15:20:49": {
+                "humidity": 83.18,
+                "pressure": 100448.44,
+                "temperature": 17.04
+            },
+            "2022-09-03T15:26:14": {
+                "humidity": 82.4,
+                "pressure": 100442.75,
+                "temperature": 17.21
+            },
+            "2022-09-03T15:36:50": {
+                "humidity": 82.42,
+                "pressure": 100452.69,
+                "temperature": 17.13
+            },
+            "2022-09-03T15:39:24": {
+                "humidity": 82.59,
+                "pressure": 100448.88,
+                "temperature": 17.08
+            },
+            "2022-09-03T15:42:25": {
+                "humidity": 83.8,
+                "pressure": 100444.53,
+                "temperature": 16.85
+            },
+            "2022-09-03T15:44:54": {
+                "humidity": 83.91,
+                "pressure": 100466.31,
+                "temperature": 16.77
+            },
+            "2022-09-03T15:47:55": {
+                "humidity": 84.58,
+                "pressure": 100468.28,
+                "temperature": 16.68
+            },
+            "2022-09-03T15:50:36": {
+                "humidity": 84.38,
+                "pressure": 100464.63,
+                "temperature": 16.76
+            },
+            "2022-09-03T15:53:24": {
+                "humidity": 83.91,
+                "pressure": 100472.44,
+                "temperature": 16.86
+            },
+            "2022-09-03T15:58:41": {
+                "humidity": 84.03,
+                "pressure": 100460.44,
+                "temperature": 16.73
+            },
+            "2022-09-03T16:01:32": {
+                "humidity": 84.29,
+                "pressure": 100455.63,
+                "temperature": 16.69
+            },
+            "2022-09-03T16:07:06": {
+                "humidity": 84.24,
+                "pressure": 100452.66,
+                "temperature": 16.64
+            },
+            "2022-09-03T16:09:55": {
+                "humidity": 84.69,
+                "pressure": 100460.63,
+                "temperature": 16.5
+            },
+            "2022-09-03T16:16:20": {
+                "humidity": 85.43,
+                "pressure": 100449.69,
+                "temperature": 16.37
+            },
+            "2022-09-03T16:18:45": {
+                "humidity": 85.44,
+                "pressure": 100446.59,
+                "temperature": 16.4
+            },
+            "2022-09-03T16:21:46": {
+                "humidity": 85.86,
+                "pressure": 100452.13,
+                "temperature": 16.32
+            },
+            "2022-09-03T16:27:20": {
+                "humidity": 85.7,
+                "pressure": 100446.53,
+                "temperature": 16.33
+            },
+            "2022-09-03T16:30:00": {
+                "humidity": 85.89,
+                "pressure": 100449.06,
+                "temperature": 16.35
+            },
+            "2022-09-03T16:35:15": {
+                "humidity": 85.26,
+                "pressure": 100463.75,
+                "temperature": 16.47
+            },
+            "2022-09-03T16:38:10": {
+                "humidity": 85.22,
+                "pressure": 100456.66,
+                "temperature": 16.46
+            },
+            "2022-09-03T16:55:49": {
+                "humidity": 85.65,
+                "pressure": 100482.28,
+                "temperature": 16.14
+            },
+            "2022-09-03T17:09:55": {
+                "humidity": 85.31,
+                "pressure": 100460.5,
+                "temperature": 16.16
+            },
+            "2022-09-03T17:23:46": {
+                "humidity": 85.84,
+                "pressure": 100482.31,
+                "temperature": 15.99
+            },
+            "2022-09-03T17:26:32": {
+                "humidity": 85.51,
+                "pressure": 100473.34,
+                "temperature": 16.13
+            },
+            "2022-09-03T17:29:33": {
+                "humidity": 85.61,
+                "pressure": 100471.59,
+                "temperature": 16.06
+            },
+            "2022-09-03T17:37:34": {
+                "humidity": 85.3,
+                "pressure": 100475.13,
+                "temperature": 16.06
+            },
+            "2022-09-03T17:42:55": {
+                "humidity": 86.32,
+                "pressure": 100482.91,
+                "temperature": 15.8
+            },
+            "2022-09-03T17:45:43": {
+                "humidity": 86.19,
+                "pressure": 100476.75,
+                "temperature": 15.86
+            },
+            "2022-09-03T17:51:04": {
+                "humidity": 86.97,
+                "pressure": 100485.56,
+                "temperature": 15.65
+            },
+            "2022-09-03T17:56:19": {
+                "humidity": 87.15,
+                "pressure": 100482.59,
+                "temperature": 15.6
+            },
+            "2022-09-03T18:01:34": {
+                "humidity": 87.47,
+                "pressure": 100472.06,
+                "temperature": 15.5
+            },
+            "2022-09-03T18:04:31": {
+                "humidity": 87.76,
+                "pressure": 100474.13,
+                "temperature": 15.48
+            },
+            "2022-09-03T18:07:17": {
+                "humidity": 87.49,
+                "pressure": 100474.59,
+                "temperature": 15.51
+            },
+            "2022-09-03T18:10:06": {
+                "humidity": 87.47,
+                "pressure": 100470.69,
+                "temperature": 15.54
+            },
+            "2022-09-03T18:15:38": {
+                "humidity": 87.84,
+                "pressure": 100477.22,
+                "temperature": 15.45
+            },
+            "2022-09-03T18:18:27": {
+                "humidity": 87.76,
+                "pressure": 100485.31,
+                "temperature": 15.45
+            },
+            "2022-09-03T18:21:00": {
+                "humidity": 88.05,
+                "pressure": 100483.25,
+                "temperature": 15.47
+            },
+            "2022-09-03T18:27:17": {
+                "humidity": 87.96,
+                "pressure": 100490.5,
+                "temperature": 15.46
+            },
+            "2022-09-03T18:30:14": {
+                "humidity": 88.48,
+                "pressure": 100496.84,
+                "temperature": 15.39
+            },
+            "2022-09-03T18:33:00": {
+                "humidity": 89.01,
+                "pressure": 100491.03,
+                "temperature": 15.27
+            },
+            "2022-09-03T18:35:46": {
+                "humidity": 88.87,
+                "pressure": 100485.72,
+                "temperature": 15.34
+            },
+            "2022-09-03T18:38:34": {
+                "humidity": 89.12,
+                "pressure": 100507.03,
+                "temperature": 15.28
+            },
+            "2022-09-03T18:48:06": {
+                "humidity": 88.88,
+                "pressure": 100516.44,
+                "temperature": 15.32
+            },
+            "2022-09-03T18:54:58": {
+                "humidity": 88.9,
+                "pressure": 100514.47,
+                "temperature": 15.26
+            },
+            "2022-09-03T18:58:25": {
+                "humidity": 89.17,
+                "pressure": 100528.53,
+                "temperature": 15.22
+            },
+            "2022-09-03T19:01:26": {
+                "humidity": 89.16,
+                "pressure": 100529.34,
+                "temperature": 15.22
+            },
+            "2022-09-03T19:07:56": {
+                "humidity": 89.43,
+                "pressure": 100530.75,
+                "temperature": 15.18
+            },
+            "2022-09-03T19:11:19": {
+                "humidity": 89.43,
+                "pressure": 100536.78,
+                "temperature": 15.2
+            },
+            "2022-09-03T19:14:00": {
+                "humidity": 89.38,
+                "pressure": 100536.78,
+                "temperature": 15.2
+            },
+            "2022-09-03T19:17:05": {
+                "humidity": 89.65,
+                "pressure": 100541.72,
+                "temperature": 15.17
+            },
+            "2022-09-03T19:20:13": {
+                "humidity": 89.24,
+                "pressure": 100543.41,
+                "temperature": 15.18
+            },
+            "2022-09-03T19:23:02": {
+                "humidity": 89.22,
+                "pressure": 100537.53,
+                "temperature": 15.14
+            },
+            "2022-09-03T19:25:49": {
+                "humidity": 89.5,
+                "pressure": 100549.03,
+                "temperature": 15.08
+            },
+            "2022-09-03T19:28:40": {
+                "humidity": 89.67,
+                "pressure": 100546.88,
+                "temperature": 15.03
+            },
+            "2022-09-03T19:31:45": {
+                "humidity": 89.38,
+                "pressure": 100536.94,
+                "temperature": 15.04
+            },
+            "2022-09-03T19:34:53": {
+                "humidity": 89.28,
+                "pressure": 100539.63,
+                "temperature": 15.04
+            },
+            "2022-09-03T19:46:57": {
+                "humidity": 89.45,
+                "pressure": 100558.03,
+                "temperature": 15.0
+            },
+            "2022-09-03T19:52:54": {
+                "humidity": 89.21,
+                "pressure": 100560.91,
+                "temperature": 14.99
+            },
+            "2022-09-03T19:55:53": {
+                "humidity": 89.53,
+                "pressure": 100561.63,
+                "temperature": 14.93
+            },
+            "2022-09-03T19:58:44": {
+                "humidity": 89.51,
+                "pressure": 100559.97,
+                "temperature": 14.92
+            },
+            "2022-09-03T20:01:34": {
+                "humidity": 89.13,
+                "pressure": 100553.19,
+                "temperature": 14.96
+            },
+            "2022-09-03T20:04:35": {
+                "humidity": 89.19,
+                "pressure": 100564.31,
+                "temperature": 14.93
+            },
+            "2022-09-03T20:07:22": {
+                "humidity": 89.29,
+                "pressure": 100563.13,
+                "temperature": 14.95
+            },
+            "2022-09-03T20:10:11": {
+                "humidity": 89.03,
+                "pressure": 100556.59,
+                "temperature": 14.89
+            },
+            "2022-09-03T20:13:11": {
+                "humidity": 89.22,
+                "pressure": 100564.38,
+                "temperature": 14.84
+            },
+            "2022-09-03T20:16:16": {
+                "humidity": 89.06,
+                "pressure": 100568.22,
+                "temperature": 14.9
+            },
+            "2022-09-03T20:21:44": {
+                "humidity": 89.14,
+                "pressure": 100561.5,
+                "temperature": 14.86
+            },
+            "2022-09-03T20:27:03": {
+                "humidity": 88.84,
+                "pressure": 100573.13,
+                "temperature": 14.86
+            },
+            "2022-09-03T20:29:45": {
+                "humidity": 88.35,
+                "pressure": 100573.69,
+                "temperature": 15.05
+            },
+            "2022-09-03T20:51:38": {
+                "humidity": 88.17,
+                "pressure": 100577.81,
+                "temperature": 14.93
+            },
+            "2022-09-03T20:59:23": {
+                "humidity": 87.73,
+                "pressure": 100576.88,
+                "temperature": 15.08
+            },
+            "2022-09-03T21:11:38": {
+                "humidity": 88.14,
+                "pressure": 100583.75,
+                "temperature": 14.88
+            },
+            "2022-09-03T21:19:46": {
+                "humidity": 88.2,
+                "pressure": 100586.28,
+                "temperature": 14.89
+            },
+            "2022-09-03T21:25:15": {
+                "humidity": 88.03,
+                "pressure": 100591.97,
+                "temperature": 14.95
+            },
+            "2022-09-03T21:27:46": {
+                "humidity": 87.71,
+                "pressure": 100582.88,
+                "temperature": 14.96
+            },
+            "2022-09-03T21:30:18": {
+                "humidity": 87.99,
+                "pressure": 100572.38,
+                "temperature": 15.01
+            },
+            "2022-09-03T21:33:02": {
+                "humidity": 88.25,
+                "pressure": 100578.47,
+                "temperature": 14.95
+            },
+            "2022-09-03T21:35:37": {
+                "humidity": 87.74,
+                "pressure": 100575.06,
+                "temperature": 15.01
+            },
+            "2022-09-03T21:38:12": {
+                "humidity": 88.6,
+                "pressure": 100581.22,
+                "temperature": 14.86
+            },
+            "2022-09-03T21:40:48": {
+                "humidity": 88.63,
+                "pressure": 100581.38,
+                "temperature": 14.85
+            },
+            "2022-09-03T21:43:26": {
+                "humidity": 88.4,
+                "pressure": 100580.5,
+                "temperature": 14.93
+            },
+            "2022-09-03T21:46:03": {
+                "humidity": 88.27,
+                "pressure": 100578.53,
+                "temperature": 14.86
+            },
+            "2022-09-03T21:49:15": {
+                "humidity": 88.37,
+                "pressure": 100574.16,
+                "temperature": 14.85
+            },
+            "2022-09-03T21:52:26": {
+                "humidity": 87.6,
+                "pressure": 100573.03,
+                "temperature": 15.03
+            },
+            "2022-09-03T21:54:31": {
+                "humidity": 87.94,
+                "pressure": 100574.44,
+                "temperature": 14.9
+            },
+            "2022-09-03T21:57:41": {
+                "humidity": 88.02,
+                "pressure": 100571.41,
+                "temperature": 14.94
+            },
+            "2022-09-03T22:00:18": {
+                "humidity": 88.13,
+                "pressure": 100574.13,
+                "temperature": 14.94
+            },
+            "2022-09-03T22:02:45": {
+                "humidity": 88.06,
+                "pressure": 100575.41,
+                "temperature": 14.98
+            },
+            "2022-09-03T22:05:14": {
+                "humidity": 88.18,
+                "pressure": 100579.5,
+                "temperature": 14.94
+            },
+            "2022-09-03T22:10:54": {
+                "humidity": 88.0,
+                "pressure": 100575.41,
+                "temperature": 14.98
+            },
+            "2022-09-03T22:15:54": {
+                "humidity": 87.9,
+                "pressure": 100578.09,
+                "temperature": 14.98
+            },
+            "2022-09-03T22:18:26": {
+                "humidity": 87.86,
+                "pressure": 100575.78,
+                "temperature": 14.95
+            },
+            "2022-09-03T22:21:04": {
+                "humidity": 88.54,
+                "pressure": 100571.34,
+                "temperature": 14.79
+            },
+            "2022-09-03T22:26:39": {
+                "humidity": 88.64,
+                "pressure": 100578.91,
+                "temperature": 14.83
+            },
+            "2022-09-03T22:30:12": {
+                "humidity": 88.65,
+                "pressure": 100574.03,
+                "temperature": 14.79
+            },
+            "2022-09-03T22:32:46": {
+                "humidity": 88.72,
+                "pressure": 100581.94,
+                "temperature": 14.8
+            },
+            "2022-09-03T22:35:46": {
+                "humidity": 88.2,
+                "pressure": 100579.97,
+                "temperature": 14.97
+            },
+            "2022-09-03T22:38:50": {
+                "humidity": 88.81,
+                "pressure": 100576.53,
+                "temperature": 14.8
+            },
+            "2022-09-03T22:41:57": {
+                "humidity": 88.62,
+                "pressure": 100569.78,
+                "temperature": 14.84
+            },
+            "2022-09-03T22:44:50": {
+                "humidity": 88.19,
+                "pressure": 100569.06,
+                "temperature": 14.9
+            },
+            "2022-09-03T22:53:49": {
+                "humidity": 88.07,
+                "pressure": 100573.63,
+                "temperature": 14.9
+            },
+            "2022-09-03T22:56:19": {
+                "humidity": 88.23,
+                "pressure": 100581.06,
+                "temperature": 14.88
+            },
+            "2022-09-03T23:04:03": {
+                "humidity": 88.38,
+                "pressure": 100586.72,
+                "temperature": 14.93
+            },
+            "2022-09-03T23:06:36": {
+                "humidity": 88.1,
+                "pressure": 100575.66,
+                "temperature": 14.88
+            },
+            "2022-09-03T23:09:08": {
+                "humidity": 87.53,
+                "pressure": 100572.0,
+                "temperature": 15.04
+            },
+            "2022-09-03T23:11:41": {
+                "humidity": 87.76,
+                "pressure": 100570.31,
+                "temperature": 15.03
+            },
+            "2022-09-03T23:14:37": {
+                "humidity": 88.4,
+                "pressure": 100566.06,
+                "temperature": 14.85
+            },
+            "2022-09-03T23:17:21": {
+                "humidity": 87.7,
+                "pressure": 100563.91,
+                "temperature": 15.04
+            },
+            "2022-09-03T23:22:34": {
+                "humidity": 88.0,
+                "pressure": 100560.25,
+                "temperature": 14.97
+            },
+            "2022-09-03T23:25:12": {
+                "humidity": 88.14,
+                "pressure": 100562.47,
+                "temperature": 14.93
+            },
+            "2022-09-03T23:27:46": {
+                "humidity": 88.04,
+                "pressure": 100554.31,
+                "temperature": 15.01
+            },
+            "2022-09-03T23:30:16": {
+                "humidity": 88.22,
+                "pressure": 100556.91,
+                "temperature": 14.95
+            },
+            "2022-09-03T23:32:42": {
+                "humidity": 88.0,
+                "pressure": 100560.09,
+                "temperature": 14.98
+            },
+            "2022-09-03T23:41:16": {
+                "humidity": 87.5,
+                "pressure": 100545.34,
+                "temperature": 15.09
+            },
+            "2022-09-03T23:43:58": {
+                "humidity": 87.76,
+                "pressure": 100547.53,
+                "temperature": 15.05
+            },
+            "2022-09-03T23:46:35": {
+                "humidity": 88.1,
+                "pressure": 100537.13,
+                "temperature": 15.02
             }
         }
     }

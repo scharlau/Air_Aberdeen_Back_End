@@ -57,7 +57,7 @@ def get_historic_data(current_data, start_date):
             str_date = point_date.isoformat()
             filename = str_date + '_' + sensor['sensor']['sensor_type']['name'].lower(
             ) + '_sensor_' + str(sensor['sensor']['id'])+'.csv'
-            full_link = 'http://archive.luftdaten.info/' + str_date + '/' + filename
+            full_link = 'https://archive.sensor.community/' + str_date + '/' + filename
 
             # check if file has already been downloaded
             # if (os.path.isfile(file_directory +'done/'+ filename)):
